@@ -1,0 +1,7772 @@
+[
+  {
+    "id": "p0001",
+    "name": "#267 NB 13th St @ Taylor St",
+    "lat": 37.355908,
+    "lon": -121.888336,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0002",
+    "name": "#268 EB Taylor St @ 13th St",
+    "lat": 37.355077,
+    "lon": -121.887451,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0003",
+    "name": "#269 WB Taylor St @ 13th St",
+    "lat": 37.354941,
+    "lon": -121.888097,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0004",
+    "name": "#270 SB 13th St @ Mission St",
+    "lat": 37.357019,
+    "lon": -121.88937,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0005",
+    "name": "#353 WB Julian St @ N 11th St",
+    "lat": 37.345508,
+    "lon": -121.883578,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0006",
+    "name": "#354 NB N 11th St @ E Julian St",
+    "lat": 37.34601,
+    "lon": -121.883687,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0007",
+    "name": "#355 EB Julian St @ 12th St",
+    "lat": 37.346082,
+    "lon": -121.882064,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0008",
+    "name": "#356 NB N 11th St @ E Saint James St",
+    "lat": 37.344453,
+    "lon": -121.882532,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0009",
+    "name": "#366 EB E Santa Clara St @ S 4th St",
+    "lat": 37.337657,
+    "lon": -121.887232,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0010",
+    "name": "#367 WB E Santa Clara St @ N 5th St",
+    "lat": 37.338217,
+    "lon": -121.886526,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0011",
+    "name": "#368 NB N 11th St @ E Santa Clara St",
+    "lat": 37.341717,
+    "lon": -121.880282,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0012",
+    "name": "#369 SB S 10th St @ E Santa Clara St",
+    "lat": 37.340442,
+    "lon": -121.880761,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0013",
+    "name": "#370 EB E Santa Clara St @ N 12th St",
+    "lat": 37.341183,
+    "lon": -121.879828,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0014",
+    "name": "#371 WB Santa Clara St @ N 10th St",
+    "lat": 37.340726,
+    "lon": -121.88122,
+    "kind": "surveillance"
+  },
+  {
+    "id": "p0015",
+    "name": "1 West Santa Clara",
+    "lat": 37.336316,
+    "lon": -121.891118,
+    "kind": "office"
+  },
+  {
+    "id": "p0016",
+    "name": "101 San Fernando",
+    "lat": 37.336251,
+    "lon": -121.887065,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0017",
+    "name": "10th & Taylor",
+    "lat": 37.353365,
+    "lon": -121.890529,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0018",
+    "name": "10th & Taylor",
+    "lat": 37.353405,
+    "lon": -121.890497,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0019",
+    "name": "10th Street at Mission Street",
+    "lat": 37.355404,
+    "lon": -121.892055,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0020",
+    "name": "10th Street Distillery",
+    "lat": 37.345151,
+    "lon": -121.892511,
+    "kind": "industrial"
+  },
+  {
+    "id": "p0021",
+    "name": "11th & Taylor",
+    "lat": 37.35433,
+    "lon": -121.889816,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0022",
+    "name": "14th at Santa Clara",
+    "lat": 37.342794,
+    "lon": -121.877344,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0023",
+    "name": "170 Suite",
+    "lat": 37.336083,
+    "lon": -121.889756,
+    "kind": "police"
+  },
+  {
+    "id": "p0024",
+    "name": "17th at Santa Clara",
+    "lat": 37.344069,
+    "lon": -121.874464,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0025",
+    "name": "21st at Santa Clara",
+    "lat": 37.34589,
+    "lon": -121.870773,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0026",
+    "name": "27 North Apartments",
+    "lat": 37.339098,
+    "lon": -121.886154,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0027",
+    "name": "2nd Story Bake Shop",
+    "lat": 37.337344,
+    "lon": -121.887627,
+    "kind": "pastry"
+  },
+  {
+    "id": "p0028",
+    "name": "3rd Street Garage",
+    "lat": 37.337972,
+    "lon": -121.889523,
+    "kind": "parking"
+  },
+  {
+    "id": "p0029",
+    "name": "40 Thieves San Jose",
+    "lat": 37.33668,
+    "lon": -121.890702,
+    "kind": "bar"
+  },
+  {
+    "id": "p0030",
+    "name": "420 Smoke Shop",
+    "lat": 37.340189,
+    "lon": -121.88148,
+    "kind": "e-cigarette"
+  },
+  {
+    "id": "p0031",
+    "name": "45 North",
+    "lat": 37.340318,
+    "lon": -121.884003,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0032",
+    "name": "4th",
+    "lat": 37.340567,
+    "lon": -121.889763,
+    "kind": "other"
+  },
+  {
+    "id": "p0033",
+    "name": "4th Street Garage",
+    "lat": 37.336515,
+    "lon": -121.886073,
+    "kind": "parking"
+  },
+  {
+    "id": "p0034",
+    "name": "6th and Jackson",
+    "lat": 37.35021,
+    "lon": -121.893504,
+    "kind": "property_management"
+  },
+  {
+    "id": "p0035",
+    "name": "6th and Jackson",
+    "lat": 37.350806,
+    "lon": -121.893567,
+    "kind": "residential"
+  },
+  {
+    "id": "p0036",
+    "name": "7-Eleven",
+    "lat": 37.336924,
+    "lon": -121.876469,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0037",
+    "name": "7-Eleven",
+    "lat": 37.341617,
+    "lon": -121.88696,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0038",
+    "name": "7-Eleven",
+    "lat": 37.340486,
+    "lon": -121.880439,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0039",
+    "name": "7:30 Social Club",
+    "lat": 37.343318,
+    "lon": -121.886129,
+    "kind": "social_club"
+  },
+  {
+    "id": "p0040",
+    "name": "7th Street at Santa Clara Street",
+    "lat": 37.33906,
+    "lon": -121.884018,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0041",
+    "name": "90.5 FM KSJS",
+    "lat": 37.336078,
+    "lon": -121.884532,
+    "kind": "studio"
+  },
+  {
+    "id": "p0042",
+    "name": "9th at San Fernando",
+    "lat": 37.338495,
+    "lon": -121.880916,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0043",
+    "name": "9th Street Mall",
+    "lat": 37.336865,
+    "lon": -121.87957,
+    "kind": "street"
+  },
+  {
+    "id": "p0044",
+    "name": "A Touch of Love Flower Shop",
+    "lat": 37.348621,
+    "lon": -121.87731,
+    "kind": "florist"
+  },
+  {
+    "id": "p0045",
+    "name": "A&M Paint & Body",
+    "lat": 37.353471,
+    "lon": -121.886973,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0046",
+    "name": "AAYS Medical Supplies",
+    "lat": 37.341864,
+    "lon": -121.878183,
+    "kind": "medical_supply"
+  },
+  {
+    "id": "p0047",
+    "name": "Abode Services – San Jose",
+    "lat": 37.342615,
+    "lon": -121.87764,
+    "kind": "association"
+  },
+  {
+    "id": "p0048",
+    "name": "Accion Opportunity Fund",
+    "lat": 37.337382,
+    "lon": -121.893988,
+    "kind": "ngo"
+  },
+  {
+    "id": "p0049",
+    "name": "Accurate Income Tax Service",
+    "lat": 37.35529,
+    "lon": -121.887758,
+    "kind": "tax_advisor"
+  },
+  {
+    "id": "p0050",
+    "name": "Administration Building",
+    "lat": 37.336734,
+    "lon": -121.882996,
+    "kind": "university"
+  },
+  {
+    "id": "p0051",
+    "name": "AEC Alarms",
+    "lat": 37.354098,
+    "lon": -121.890325,
+    "kind": "company"
+  },
+  {
+    "id": "p0052",
+    "name": "African American Community Service Agency",
+    "lat": 37.343404,
+    "lon": -121.888354,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0053",
+    "name": "After Heinlenville;海因倫鎮消失後",
+    "lat": 37.350524,
+    "lon": -121.893737,
+    "kind": "information"
+  },
+  {
+    "id": "p0054",
+    "name": "Agriculture",
+    "lat": 37.338403,
+    "lon": -121.886359,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0055",
+    "name": "AKW Auto Body & Paint",
+    "lat": 37.356859,
+    "lon": -121.892668,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0056",
+    "name": "AK’s In & Out Mini Market",
+    "lat": 37.336349,
+    "lon": -121.889491,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0057",
+    "name": "AK’s Square",
+    "lat": 37.336593,
+    "lon": -121.890145,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0058",
+    "name": "Aloha Fresh",
+    "lat": 37.34941,
+    "lon": -121.89386,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0059",
+    "name": "Alpha Epsilon Pi",
+    "lat": 37.337938,
+    "lon": -121.878584,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0060",
+    "name": "Alpha Tau Omega",
+    "lat": 37.337862,
+    "lon": -121.877109,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0061",
+    "name": "Alpha Xi Delta",
+    "lat": 37.337444,
+    "lon": -121.876897,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0062",
+    "name": "Alphabet",
+    "lat": 37.339922,
+    "lon": -121.884425,
+    "kind": "street"
+  },
+  {
+    "id": "p0063",
+    "name": "Ameca Travel",
+    "lat": 37.352968,
+    "lon": -121.886453,
+    "kind": "travel_agency"
+  },
+  {
+    "id": "p0064",
+    "name": "An Ngoc To, M.D.",
+    "lat": 37.339807,
+    "lon": -121.886448,
+    "kind": "doctors"
+  },
+  {
+    "id": "p0065",
+    "name": "Anchors",
+    "lat": 37.336493,
+    "lon": -121.894271,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0066",
+    "name": "Angel Health Spa",
+    "lat": 37.342935,
+    "lon": -121.87568,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0067",
+    "name": "Angelou’s Taqueria",
+    "lat": 37.336971,
+    "lon": -121.889991,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0068",
+    "name": "Anna Hair & Nails",
+    "lat": 37.351367,
+    "lon": -121.870272,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0069",
+    "name": "Ant Smog Check",
+    "lat": 37.337904,
+    "lon": -121.88811,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0070",
+    "name": "Antioch Baptist Church",
+    "lat": 37.343121,
+    "lon": -121.887848,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0071",
+    "name": "Arazbiz Computer Shop",
+    "lat": 37.33752,
+    "lon": -121.888251,
+    "kind": "other"
+  },
+  {
+    "id": "p0072",
+    "name": "Arco",
+    "lat": 37.341142,
+    "lon": -121.879584,
+    "kind": "other"
+  },
+  {
+    "id": "p0073",
+    "name": "Arroyo Way",
+    "lat": 37.341239,
+    "lon": -121.871932,
+    "kind": "street"
+  },
+  {
+    "id": "p0074",
+    "name": "Art Building",
+    "lat": 37.336133,
+    "lon": -121.879809,
+    "kind": "building"
+  },
+  {
+    "id": "p0075",
+    "name": "Art Cleaners",
+    "lat": 37.339654,
+    "lon": -121.882817,
+    "kind": "dry_cleaning"
+  },
+  {
+    "id": "p0076",
+    "name": "Art of Ukulele Studio",
+    "lat": 37.349474,
+    "lon": -121.89373,
+    "kind": "music_school"
+  },
+  {
+    "id": "p0077",
+    "name": "Arthur Monroe Free House",
+    "lat": 37.341492,
+    "lon": -121.876082,
+    "kind": "heritage"
+  },
+  {
+    "id": "p0078",
+    "name": "Arts & Creativity",
+    "lat": 37.33833,
+    "lon": -121.886518,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0079",
+    "name": "AS Print Shop and Computer Services Center",
+    "lat": 37.336695,
+    "lon": -121.879654,
+    "kind": "copyshop"
+  },
+  {
+    "id": "p0080",
+    "name": "Ascend Studio Salon",
+    "lat": 37.353716,
+    "lon": -121.891068,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0081",
+    "name": "Associated Students",
+    "lat": 37.337457,
+    "lon": -121.879142,
+    "kind": "association"
+  },
+  {
+    "id": "p0082",
+    "name": "Associated Students House",
+    "lat": 37.337452,
+    "lon": -121.879138,
+    "kind": "detached"
+  },
+  {
+    "id": "p0083",
+    "name": "Assurance Wireless",
+    "lat": 37.338935,
+    "lon": -121.884461,
+    "kind": "telecommunication"
+  },
+  {
+    "id": "p0084",
+    "name": "Astroid Burgers & Wings",
+    "lat": 37.339029,
+    "lon": -121.88383,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0085",
+    "name": "Auburn Apartments",
+    "lat": 37.34175,
+    "lon": -121.892261,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0086",
+    "name": "Auto International Insurance Agency",
+    "lat": 37.343302,
+    "lon": -121.889183,
+    "kind": "insurance"
+  },
+  {
+    "id": "p0087",
+    "name": "Auto Locksmith San Jose",
+    "lat": 37.339389,
+    "lon": -121.888958,
+    "kind": "locksmith"
+  },
+  {
+    "id": "p0088",
+    "name": "AutoTech Incorporated",
+    "lat": 37.357115,
+    "lon": -121.889075,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0089",
+    "name": "AutoZone",
+    "lat": 37.356262,
+    "lon": -121.889082,
+    "kind": "car_parts"
+  },
+  {
+    "id": "p0090",
+    "name": "Axe-Men Throw House",
+    "lat": 37.336463,
+    "lon": -121.889039,
+    "kind": "sports_centre"
+  },
+  {
+    "id": "p0091",
+    "name": "B'anne",
+    "lat": 37.34908,
+    "lon": -121.893781,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0092",
+    "name": "Back A Yard",
+    "lat": 37.336277,
+    "lon": -121.877367,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0093",
+    "name": "Back A Yard Take-Out & Catering",
+    "lat": 37.353898,
+    "lon": -121.886613,
+    "kind": "building"
+  },
+  {
+    "id": "p0094",
+    "name": "Back Bar",
+    "lat": 37.337399,
+    "lon": -121.88884,
+    "kind": "bar"
+  },
+  {
+    "id": "p0095",
+    "name": "Backesto Fountain",
+    "lat": 37.351895,
+    "lon": -121.885168,
+    "kind": "memorial"
+  },
+  {
+    "id": "p0096",
+    "name": "Backesto One Picnic Area",
+    "lat": 37.352307,
+    "lon": -121.885186,
+    "kind": "picnic_site"
+  },
+  {
+    "id": "p0097",
+    "name": "Backesto Park",
+    "lat": 37.35224,
+    "lon": -121.884418,
+    "kind": "park"
+  },
+  {
+    "id": "p0098",
+    "name": "Backesto Park (Jackson Street at 13th Street)",
+    "lat": 37.352955,
+    "lon": -121.885867,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0099",
+    "name": "Backroads",
+    "lat": 37.337186,
+    "lon": -121.887969,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0100",
+    "name": "Bank of Italy Building",
+    "lat": 37.336004,
+    "lon": -121.890181,
+    "kind": "building"
+  },
+  {
+    "id": "p0101",
+    "name": "BART Silicon Valley Phase II",
+    "lat": 37.33447,
+    "lon": -121.897558,
+    "kind": "proposed"
+  },
+  {
+    "id": "p0102",
+    "name": "BART Silicon Valley Phase II",
+    "lat": 37.348807,
+    "lon": -121.871634,
+    "kind": "proposed"
+  },
+  {
+    "id": "p0103",
+    "name": "BART Silicon Valley Phase II (East Transition Zone)",
+    "lat": 37.339556,
+    "lon": -121.883421,
+    "kind": "proposed"
+  },
+  {
+    "id": "p0104",
+    "name": "Bassett Street",
+    "lat": 37.341932,
+    "lon": -121.894096,
+    "kind": "street"
+  },
+  {
+    "id": "p0105",
+    "name": "Bay Area College of Nursing",
+    "lat": 37.342859,
+    "lon": -121.875892,
+    "kind": "college"
+  },
+  {
+    "id": "p0106",
+    "name": "Bay Wheels",
+    "lat": 37.341226,
+    "lon": -121.893001,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0107",
+    "name": "Bay Wheels",
+    "lat": 37.337088,
+    "lon": -121.883275,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0108",
+    "name": "Bay Wheels - San Carlos St at 11th St",
+    "lat": 37.336449,
+    "lon": -121.876718,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0109",
+    "name": "Bayshore Freeway",
+    "lat": 37.358196,
+    "lon": -121.871238,
+    "kind": "street"
+  },
+  {
+    "id": "p0110",
+    "name": "bb.q Chicken",
+    "lat": 37.336444,
+    "lon": -121.881294,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0111",
+    "name": "Beatrice Building",
+    "lat": 37.339848,
+    "lon": -121.893593,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0112",
+    "name": "BellBottoms Cafe",
+    "lat": 37.337215,
+    "lon": -121.887909,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0113",
+    "name": "BellSoft",
+    "lat": 37.337665,
+    "lon": -121.894013,
+    "kind": "it"
+  },
+  {
+    "id": "p0114",
+    "name": "Ben Sandwiches",
+    "lat": 37.336704,
+    "lon": -121.884711,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0115",
+    "name": "Bergeson, LLP",
+    "lat": 37.337618,
+    "lon": -121.894167,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0116",
+    "name": "Bethlehem Temple Victory Center",
+    "lat": 37.345375,
+    "lon": -121.884967,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0117",
+    "name": "Birriería El Patio",
+    "lat": 37.354729,
+    "lon": -121.887803,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0118",
+    "name": "Birthplace of A. P. Giannini",
+    "lat": 37.336802,
+    "lon": -121.893211,
+    "kind": "information"
+  },
+  {
+    "id": "p0119",
+    "name": "Biscuits",
+    "lat": 37.34939,
+    "lon": -121.893901,
+    "kind": "pet_food"
+  },
+  {
+    "id": "p0120",
+    "name": "Black Lives Matter",
+    "lat": 37.352714,
+    "lon": -121.88037,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0121",
+    "name": "Black Lives Matter",
+    "lat": 37.352271,
+    "lon": -121.881308,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0122",
+    "name": "Black Lives Matter",
+    "lat": 37.351838,
+    "lon": -121.882216,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0123",
+    "name": "Blacksuit Tattoo",
+    "lat": 37.336276,
+    "lon": -121.889452,
+    "kind": "tattoo"
+  },
+  {
+    "id": "p0124",
+    "name": "Boccardo Business Center",
+    "lat": 37.336658,
+    "lon": -121.878675,
+    "kind": "university"
+  },
+  {
+    "id": "p0125",
+    "name": "Boccardo Study Terrace",
+    "lat": 37.336684,
+    "lon": -121.878949,
+    "kind": "outdoor_seating"
+  },
+  {
+    "id": "p0126",
+    "name": "Bonfare",
+    "lat": 37.351081,
+    "lon": -121.871599,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0127",
+    "name": "Botánica y Novedades San Pablo",
+    "lat": 37.350851,
+    "lon": -121.884959,
+    "kind": "religion"
+  },
+  {
+    "id": "p0128",
+    "name": "Bounce",
+    "lat": 37.337175,
+    "lon": -121.887836,
+    "kind": "left_luggage"
+  },
+  {
+    "id": "p0129",
+    "name": "Boyce Gate",
+    "lat": 37.338159,
+    "lon": -121.880594,
+    "kind": "monument"
+  },
+  {
+    "id": "p0130",
+    "name": "Braid It Up!",
+    "lat": 37.340426,
+    "lon": -121.881036,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0131",
+    "name": "Breakout Studios",
+    "lat": 37.337398,
+    "lon": -121.891849,
+    "kind": "escape_game"
+  },
+  {
+    "id": "p0132",
+    "name": "Briyani & Beyond",
+    "lat": 37.337203,
+    "lon": -121.887296,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0133",
+    "name": "Brookwood Avenue",
+    "lat": 37.338424,
+    "lon": -121.868686,
+    "kind": "street"
+  },
+  {
+    "id": "p0134",
+    "name": "Brown is Beautiful",
+    "lat": 37.351301,
+    "lon": -121.884501,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0135",
+    "name": "Buena Vista Optometric Eye Center",
+    "lat": 37.342564,
+    "lon": -121.876682,
+    "kind": "optician"
+  },
+  {
+    "id": "p0136",
+    "name": "Bulldog Boulevard",
+    "lat": 37.348828,
+    "lon": -121.872291,
+    "kind": "street"
+  },
+  {
+    "id": "p0137",
+    "name": "Burch Boehner Insurance",
+    "lat": 37.352472,
+    "lon": -121.892327,
+    "kind": "insurance"
+  },
+  {
+    "id": "p0138",
+    "name": "Burger 408",
+    "lat": 37.336456,
+    "lon": -121.881268,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0139",
+    "name": "Business Tower",
+    "lat": 37.337059,
+    "lon": -121.878869,
+    "kind": "university"
+  },
+  {
+    "id": "p0140",
+    "name": "Bảo Truyền",
+    "lat": 37.339699,
+    "lon": -121.884282,
+    "kind": "dojo"
+  },
+  {
+    "id": "p0141",
+    "name": "Cagampan Building",
+    "lat": 37.342839,
+    "lon": -121.875898,
+    "kind": "retail"
+  },
+  {
+    "id": "p0142",
+    "name": "Calderon Quality Tires",
+    "lat": 37.356058,
+    "lon": -121.888114,
+    "kind": "tyres"
+  },
+  {
+    "id": "p0143",
+    "name": "Calhoun Street",
+    "lat": 37.343764,
+    "lon": -121.872329,
+    "kind": "street"
+  },
+  {
+    "id": "p0144",
+    "name": "California National Guard Armory",
+    "lat": 37.340244,
+    "lon": -121.892065,
+    "kind": "information"
+  },
+  {
+    "id": "p0145",
+    "name": "Calvey Heating & Air",
+    "lat": 37.34028,
+    "lon": -121.886754,
+    "kind": "other"
+  },
+  {
+    "id": "p0146",
+    "name": "Camille Beauty Salon",
+    "lat": 37.349429,
+    "lon": -121.89382,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0147",
+    "name": "Campus ATM Center",
+    "lat": 37.337331,
+    "lon": -121.879742,
+    "kind": "kiosk"
+  },
+  {
+    "id": "p0148",
+    "name": "Cannery Park",
+    "lat": 37.355433,
+    "lon": -121.892804,
+    "kind": "park"
+  },
+  {
+    "id": "p0149",
+    "name": "Cannery Place",
+    "lat": 37.355373,
+    "lon": -121.89133,
+    "kind": "street"
+  },
+  {
+    "id": "p0150",
+    "name": "Cardenas",
+    "lat": 37.343325,
+    "lon": -121.889401,
+    "kind": "supermarket"
+  },
+  {
+    "id": "p0151",
+    "name": "Cardenas Kitchen",
+    "lat": 37.343148,
+    "lon": -121.889513,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0152",
+    "name": "Career Center",
+    "lat": 37.336871,
+    "lon": -121.88307,
+    "kind": "employment_agency"
+  },
+  {
+    "id": "p0153",
+    "name": "Carmen’s",
+    "lat": 37.35401,
+    "lon": -121.884239,
+    "kind": "insurance"
+  },
+  {
+    "id": "p0154",
+    "name": "Casa de Clara San Jose Catholic Worker",
+    "lat": 37.343652,
+    "lon": -121.888564,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0155",
+    "name": "Casa del Greco",
+    "lat": 37.338462,
+    "lon": -121.881056,
+    "kind": "dormitory"
+  },
+  {
+    "id": "p0156",
+    "name": "Cash Only",
+    "lat": 37.33675,
+    "lon": -121.888822,
+    "kind": "bar"
+  },
+  {
+    "id": "p0157",
+    "name": "Central Mid-Tunnel Vent Shaft Building (and Emergency Egress) Building 1",
+    "lat": 37.337308,
+    "lon": -121.888791,
+    "kind": "other"
+  },
+  {
+    "id": "p0158",
+    "name": "Central Mid-Tunnel Vent Shaft Building (and Emergency Egress) Building 2",
+    "lat": 37.337361,
+    "lon": -121.888916,
+    "kind": "other"
+  },
+  {
+    "id": "p0159",
+    "name": "Central San Jose Church",
+    "lat": 37.339202,
+    "lon": -121.887571,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0160",
+    "name": "Cereza Place",
+    "lat": 37.349269,
+    "lon": -121.890969,
+    "kind": "street"
+  },
+  {
+    "id": "p0161",
+    "name": "Chaparral Supermarket",
+    "lat": 37.345992,
+    "lon": -121.870565,
+    "kind": "supermarket"
+  },
+  {
+    "id": "p0162",
+    "name": "Charles W. Davidson College of Engineering",
+    "lat": 37.337072,
+    "lon": -121.881739,
+    "kind": "university"
+  },
+  {
+    "id": "p0163",
+    "name": "Charm’s House Hair and Nails",
+    "lat": 37.346764,
+    "lon": -121.881382,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0164",
+    "name": "Checo’s",
+    "lat": 37.354487,
+    "lon": -121.887136,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0165",
+    "name": "Chemical Number 2 Building",
+    "lat": 37.34331,
+    "lon": -121.886144,
+    "kind": "building"
+  },
+  {
+    "id": "p0166",
+    "name": "Chevron",
+    "lat": 37.337799,
+    "lon": -121.887875,
+    "kind": "fuel"
+  },
+  {
+    "id": "p0167",
+    "name": "Chi Pi Sigma",
+    "lat": 37.337234,
+    "lon": -121.878114,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0168",
+    "name": "Chiaramonte’s Market",
+    "lat": 37.353144,
+    "lon": -121.886657,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0169",
+    "name": "Children",
+    "lat": 37.33715,
+    "lon": -121.88543,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0170",
+    "name": "Choice Liquors",
+    "lat": 37.355216,
+    "lon": -121.8877,
+    "kind": "alcohol"
+  },
+  {
+    "id": "p0171",
+    "name": "Church of Christ",
+    "lat": 37.340731,
+    "lon": -121.884362,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0172",
+    "name": "City Council Wing",
+    "lat": 37.337219,
+    "lon": -121.88634,
+    "kind": "public"
+  },
+  {
+    "id": "p0173",
+    "name": "City Hall Tower",
+    "lat": 37.338041,
+    "lon": -121.885372,
+    "kind": "government"
+  },
+  {
+    "id": "p0174",
+    "name": "Classic Loot",
+    "lat": 37.349268,
+    "lon": -121.892899,
+    "kind": "clothes"
+  },
+  {
+    "id": "p0175",
+    "name": "Coldwater",
+    "lat": 37.349225,
+    "lon": -121.894173,
+    "kind": "clothes"
+  },
+  {
+    "id": "p0176",
+    "name": "Collins Foundation",
+    "lat": 37.338383,
+    "lon": -121.883201,
+    "kind": "association"
+  },
+  {
+    "id": "p0177",
+    "name": "Collins House",
+    "lat": 37.338359,
+    "lon": -121.883252,
+    "kind": "house"
+  },
+  {
+    "id": "p0178",
+    "name": "Colma Cremation and Funeral Services",
+    "lat": 37.337924,
+    "lon": -121.894199,
+    "kind": "funeral_directors"
+  },
+  {
+    "id": "p0179",
+    "name": "ColorONE group",
+    "lat": 37.339841,
+    "lon": -121.893667,
+    "kind": "other"
+  },
+  {
+    "id": "p0180",
+    "name": "Coming to America;定居在美國",
+    "lat": 37.350496,
+    "lon": -121.893772,
+    "kind": "information"
+  },
+  {
+    "id": "p0181",
+    "name": "Commercial Building",
+    "lat": 37.336692,
+    "lon": -121.890704,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0182",
+    "name": "Community Cycles of California",
+    "lat": 37.337354,
+    "lon": -121.887674,
+    "kind": "bicycle"
+  },
+  {
+    "id": "p0183",
+    "name": "Community Room",
+    "lat": 37.349629,
+    "lon": -121.887247,
+    "kind": "other"
+  },
+  {
+    "id": "p0184",
+    "name": "Community Towers",
+    "lat": 37.337775,
+    "lon": -121.89451,
+    "kind": "parking"
+  },
+  {
+    "id": "p0185",
+    "name": "Complete Auto Repair",
+    "lat": 37.341008,
+    "lon": -121.879552,
+    "kind": "other"
+  },
+  {
+    "id": "p0186",
+    "name": "Con Azucar Café",
+    "lat": 37.33739,
+    "lon": -121.888412,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0187",
+    "name": "Contempo Furniture",
+    "lat": 37.340517,
+    "lon": -121.882033,
+    "kind": "furniture"
+  },
+  {
+    "id": "p0188",
+    "name": "Contemporary Asian Theater Scene",
+    "lat": 37.347913,
+    "lon": -121.893954,
+    "kind": "association"
+  },
+  {
+    "id": "p0189",
+    "name": "Corinthian Grand Ballroom",
+    "lat": 37.339944,
+    "lon": -121.890011,
+    "kind": "events_venue"
+  },
+  {
+    "id": "p0190",
+    "name": "Cornerstone at Japantown",
+    "lat": 37.357075,
+    "lon": -121.893791,
+    "kind": "residential"
+  },
+  {
+    "id": "p0191",
+    "name": "Corporation Yard A",
+    "lat": 37.33816,
+    "lon": -121.880253,
+    "kind": "university"
+  },
+  {
+    "id": "p0192",
+    "name": "Corporation Yard B",
+    "lat": 37.338074,
+    "lon": -121.879752,
+    "kind": "university"
+  },
+  {
+    "id": "p0193",
+    "name": "County Legal",
+    "lat": 37.337722,
+    "lon": -121.894249,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0194",
+    "name": "Cox & Sprague Dynamic Balancing",
+    "lat": 37.353568,
+    "lon": -121.887273,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0195",
+    "name": "Coyote Creek",
+    "lat": 37.344128,
+    "lon": -121.873838,
+    "kind": "bridge"
+  },
+  {
+    "id": "p0196",
+    "name": "Coyote Creek",
+    "lat": 37.350203,
+    "lon": -121.873487,
+    "kind": "bridge"
+  },
+  {
+    "id": "p0197",
+    "name": "Coyote Creek",
+    "lat": 37.340448,
+    "lon": -121.870619,
+    "kind": "bridge"
+  },
+  {
+    "id": "p0198",
+    "name": "Coyote Creek",
+    "lat": 37.372349,
+    "lon": -121.876565,
+    "kind": "other"
+  },
+  {
+    "id": "p0199",
+    "name": "Coyote Creek",
+    "lat": 37.27087,
+    "lon": -121.760035,
+    "kind": "other"
+  },
+  {
+    "id": "p0200",
+    "name": "Coyote Creek Circle",
+    "lat": 37.352516,
+    "lon": -121.871842,
+    "kind": "street"
+  },
+  {
+    "id": "p0201",
+    "name": "Coyote Creek Court",
+    "lat": 37.352263,
+    "lon": -121.871765,
+    "kind": "street"
+  },
+  {
+    "id": "p0202",
+    "name": "Coyote Creek Place",
+    "lat": 37.353267,
+    "lon": -121.8726,
+    "kind": "street"
+  },
+  {
+    "id": "p0203",
+    "name": "CreateSpace Studios",
+    "lat": 37.348991,
+    "lon": -121.893778,
+    "kind": "association"
+  },
+  {
+    "id": "p0204",
+    "name": "Creative Center for the Arts",
+    "lat": 37.350833,
+    "lon": -121.893312,
+    "kind": "brownfield"
+  },
+  {
+    "id": "p0205",
+    "name": "Crescent Mane Hair Studio",
+    "lat": 37.353736,
+    "lon": -121.891053,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0206",
+    "name": "Crewners",
+    "lat": 37.353697,
+    "lon": -121.890986,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0207",
+    "name": "Cricket Wireless",
+    "lat": 37.339242,
+    "lon": -121.88358,
+    "kind": "mobile_phone"
+  },
+  {
+    "id": "p0208",
+    "name": "CSU San Jose State University",
+    "lat": 37.335294,
+    "lon": -121.881626,
+    "kind": "other"
+  },
+  {
+    "id": "p0209",
+    "name": "Cukui",
+    "lat": 37.349487,
+    "lon": -121.893688,
+    "kind": "clothes"
+  },
+  {
+    "id": "p0210",
+    "name": "Custom Embroidery",
+    "lat": 37.336014,
+    "lon": -121.889868,
+    "kind": "dry_cleaning;tailor"
+  },
+  {
+    "id": "p0211",
+    "name": "Cơm Gà Nam An",
+    "lat": 37.339435,
+    "lon": -121.883225,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0212",
+    "name": "Darling & Fischer Garden Chapel",
+    "lat": 37.341112,
+    "lon": -121.880908,
+    "kind": "funeral_directors"
+  },
+  {
+    "id": "p0213",
+    "name": "de Saisset Building",
+    "lat": 37.336579,
+    "lon": -121.889178,
+    "kind": "building"
+  },
+  {
+    "id": "p0214",
+    "name": "Delta Sigma Phi",
+    "lat": 37.337957,
+    "lon": -121.878039,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0215",
+    "name": "Delta Upsilon",
+    "lat": 37.337592,
+    "lon": -121.877743,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0216",
+    "name": "Devine Cheese and Wine",
+    "lat": 37.340383,
+    "lon": -121.892558,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0217",
+    "name": "Devine Street",
+    "lat": 37.339799,
+    "lon": -121.89343,
+    "kind": "street"
+  },
+  {
+    "id": "p0218",
+    "name": "Di Trú Nam Á Immigration Services",
+    "lat": 37.344833,
+    "lon": -121.884388,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0219",
+    "name": "Diamanti",
+    "lat": 37.337651,
+    "lon": -121.894104,
+    "kind": "it"
+  },
+  {
+    "id": "p0220",
+    "name": "Diamonds Beauty Shop",
+    "lat": 37.351845,
+    "lon": -121.870828,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0221",
+    "name": "Diaz",
+    "lat": 37.336681,
+    "lon": -121.888965,
+    "kind": "clothes"
+  },
+  {
+    "id": "p0222",
+    "name": "Diaz Compean Ballroom",
+    "lat": 37.336234,
+    "lon": -121.881604,
+    "kind": "events_venue"
+  },
+  {
+    "id": "p0223",
+    "name": "Diaz Compean Student Union",
+    "lat": 37.336493,
+    "lon": -121.880683,
+    "kind": "university"
+  },
+  {
+    "id": "p0224",
+    "name": "District",
+    "lat": 37.336192,
+    "lon": -121.893879,
+    "kind": "bar"
+  },
+  {
+    "id": "p0225",
+    "name": "Diversity",
+    "lat": 37.339624,
+    "lon": -121.887274,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0226",
+    "name": "Doctor Martha E. Barragan, D.D.S.",
+    "lat": 37.353713,
+    "lon": -121.886528,
+    "kind": "dentist"
+  },
+  {
+    "id": "p0227",
+    "name": "Dome Construction",
+    "lat": 37.3375,
+    "lon": -121.889879,
+    "kind": "construction_company"
+  },
+  {
+    "id": "p0228",
+    "name": "Domino’s",
+    "lat": 37.341761,
+    "lon": -121.878406,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0229",
+    "name": "Don Johnson Tennis Courts",
+    "lat": 37.352912,
+    "lon": -121.884931,
+    "kind": "sports_centre"
+  },
+  {
+    "id": "p0230",
+    "name": "Don Mateo Foods",
+    "lat": 37.346092,
+    "lon": -121.869404,
+    "kind": "marketplace"
+  },
+  {
+    "id": "p0231",
+    "name": "Donner Lofts",
+    "lat": 37.339075,
+    "lon": -121.888038,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0232",
+    "name": "Downtown Cosmetic Laser Center",
+    "lat": 37.342956,
+    "lon": -121.878401,
+    "kind": "doctor"
+  },
+  {
+    "id": "p0233",
+    "name": "Downtown Pharmacy",
+    "lat": 37.343065,
+    "lon": -121.878593,
+    "kind": "pharmacy"
+  },
+  {
+    "id": "p0234",
+    "name": "Downtown Superior Court",
+    "lat": 37.338258,
+    "lon": -121.893482,
+    "kind": "courthouse"
+  },
+  {
+    "id": "p0235",
+    "name": "Dudley Moorhead Hall",
+    "lat": 37.336351,
+    "lon": -121.883758,
+    "kind": "university"
+  },
+  {
+    "id": "p0236",
+    "name": "Eagles Hall",
+    "lat": 37.339377,
+    "lon": -121.889997,
+    "kind": "information"
+  },
+  {
+    "id": "p0237",
+    "name": "East Empire Street",
+    "lat": 37.350095,
+    "lon": -121.885894,
+    "kind": "street"
+  },
+  {
+    "id": "p0238",
+    "name": "East Jackson Street",
+    "lat": 37.352791,
+    "lon": -121.886319,
+    "kind": "street"
+  },
+  {
+    "id": "p0239",
+    "name": "East Julian Street",
+    "lat": 37.346548,
+    "lon": -121.881131,
+    "kind": "street"
+  },
+  {
+    "id": "p0240",
+    "name": "East Julian Street & North 13th Street",
+    "lat": 37.346567,
+    "lon": -121.88116,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0241",
+    "name": "East Julian Street & North 15th Street",
+    "lat": 37.347279,
+    "lon": -121.879819,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0242",
+    "name": "East Julian Street & North 15th Street",
+    "lat": 37.347458,
+    "lon": -121.879275,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0243",
+    "name": "East Julian Street & North 17th Street",
+    "lat": 37.348353,
+    "lon": -121.877559,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0244",
+    "name": "East Julian Street & North 17th Street",
+    "lat": 37.348367,
+    "lon": -121.877375,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0245",
+    "name": "East Julian Street & North 21st Street",
+    "lat": 37.349948,
+    "lon": -121.874202,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0246",
+    "name": "East Julian Street & North 24th Street",
+    "lat": 37.350731,
+    "lon": -121.872046,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0247",
+    "name": "East Julian Street & North 24th Street",
+    "lat": 37.351062,
+    "lon": -121.871158,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0248",
+    "name": "East Julian Street & North 26th Street",
+    "lat": 37.351759,
+    "lon": -121.870324,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0249",
+    "name": "East Julian Street & North 26th Street",
+    "lat": 37.352044,
+    "lon": -121.869498,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0250",
+    "name": "East Mid-Tunnel Vent Shaft Building (and Emergency Egress) Building 1",
+    "lat": 37.342166,
+    "lon": -121.878473,
+    "kind": "other"
+  },
+  {
+    "id": "p0251",
+    "name": "East Mid-Tunnel Vent Shaft Building (and Emergency Egress) Building 2",
+    "lat": 37.342263,
+    "lon": -121.878543,
+    "kind": "other"
+  },
+  {
+    "id": "p0252",
+    "name": "East Mission Street",
+    "lat": 37.356027,
+    "lon": -121.891693,
+    "kind": "street"
+  },
+  {
+    "id": "p0253",
+    "name": "East Saint James Street",
+    "lat": 37.342065,
+    "lon": -121.886533,
+    "kind": "street"
+  },
+  {
+    "id": "p0254",
+    "name": "East Saint John Street",
+    "lat": 37.341362,
+    "lon": -121.883905,
+    "kind": "street"
+  },
+  {
+    "id": "p0255",
+    "name": "East San Antonio Street",
+    "lat": 37.340149,
+    "lon": -121.871948,
+    "kind": "street"
+  },
+  {
+    "id": "p0256",
+    "name": "East San Antonio Street & South 18th Street",
+    "lat": 37.340683,
+    "lon": -121.870238,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0257",
+    "name": "East San Antonio Street & South 19th Street",
+    "lat": 37.341174,
+    "lon": -121.869462,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0258",
+    "name": "East San Carlos Street",
+    "lat": 37.337071,
+    "lon": -121.875278,
+    "kind": "street"
+  },
+  {
+    "id": "p0259",
+    "name": "East San Carlos Street & South 10th Street",
+    "lat": 37.336146,
+    "lon": -121.877233,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0260",
+    "name": "East San Carlos Street & South 13th Street",
+    "lat": 37.337337,
+    "lon": -121.874779,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0261",
+    "name": "East San Carlos Street & South 16th Street",
+    "lat": 37.338614,
+    "lon": -121.872023,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0262",
+    "name": "East San Carlos Street & South 17th Street",
+    "lat": 37.33911,
+    "lon": -121.87097,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0263",
+    "name": "East San Fernando Street",
+    "lat": 37.33831,
+    "lon": -121.880835,
+    "kind": "street"
+  },
+  {
+    "id": "p0264",
+    "name": "East San Fernando Street & South 7th Street",
+    "lat": 37.337218,
+    "lon": -121.883236,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0265",
+    "name": "East San Fernando Street & South 7th Street",
+    "lat": 37.337515,
+    "lon": -121.8824,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0266",
+    "name": "East San Salvador Street",
+    "lat": 37.336159,
+    "lon": -121.873078,
+    "kind": "street"
+  },
+  {
+    "id": "p0267",
+    "name": "East Santa Clara Street",
+    "lat": 37.340475,
+    "lon": -121.881522,
+    "kind": "street"
+  },
+  {
+    "id": "p0268",
+    "name": "East Santa Clara Street & North 11th Street",
+    "lat": 37.341146,
+    "lon": -121.880368,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0269",
+    "name": "East Santa Clara Street & North 13th Street",
+    "lat": 37.342079,
+    "lon": -121.878407,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0270",
+    "name": "East Santa Clara Street & North 14th Street",
+    "lat": 37.342429,
+    "lon": -121.877406,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0271",
+    "name": "East Santa Clara Street & North 14th Street",
+    "lat": 37.342518,
+    "lon": -121.877475,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0272",
+    "name": "East Santa Clara Street & North 17th Street",
+    "lat": 37.343636,
+    "lon": -121.875076,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0273",
+    "name": "East Santa Clara Street & North 1st Street",
+    "lat": 37.336352,
+    "lon": -121.890478,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0274",
+    "name": "East Santa Clara Street & North 1st Street",
+    "lat": 37.336519,
+    "lon": -121.890111,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0275",
+    "name": "East Santa Clara Street & North 22nd Street",
+    "lat": 37.346263,
+    "lon": -121.869329,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0276",
+    "name": "East Santa Clara Street & North 5th Street",
+    "lat": 37.338394,
+    "lon": -121.886134,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0277",
+    "name": "East Santa Clara Street & North 7th Street",
+    "lat": 37.339388,
+    "lon": -121.884075,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0278",
+    "name": "East Santa Clara Street & South 11th Street",
+    "lat": 37.341346,
+    "lon": -121.879438,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0279",
+    "name": "East Santa Clara Street & South 11th Street",
+    "lat": 37.341432,
+    "lon": -121.879502,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0280",
+    "name": "East Santa Clara Street & South 13th Street",
+    "lat": 37.342124,
+    "lon": -121.877818,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0281",
+    "name": "East Santa Clara Street & South 15th Street",
+    "lat": 37.343112,
+    "lon": -121.875968,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0282",
+    "name": "East Santa Clara Street & South 17th Street",
+    "lat": 37.343693,
+    "lon": -121.874529,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0283",
+    "name": "East Santa Clara Street & South 1st Street",
+    "lat": 37.336317,
+    "lon": -121.890031,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0284",
+    "name": "East Santa Clara Street & South 20th Street",
+    "lat": 37.345018,
+    "lon": -121.872177,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0285",
+    "name": "East Santa Clara Street & South 21st Street",
+    "lat": 37.345573,
+    "lon": -121.870785,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0286",
+    "name": "East Santa Clara Street & South 2nd Street",
+    "lat": 37.336491,
+    "lon": -121.889687,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0287",
+    "name": "East Santa Clara Street & South 2nd Street",
+    "lat": 37.336567,
+    "lon": -121.889735,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0288",
+    "name": "East Santa Clara Street & South 6th Street",
+    "lat": 37.338463,
+    "lon": -121.885513,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0289",
+    "name": "East Santa Clara Street & South 6th Street",
+    "lat": 37.338548,
+    "lon": -121.88558,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0290",
+    "name": "East Santa Clara Street & South 7th Street",
+    "lat": 37.339015,
+    "lon": -121.884345,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0291",
+    "name": "East Taylor at 9th",
+    "lat": 37.353063,
+    "lon": -121.892022,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0292",
+    "name": "East Taylor Street",
+    "lat": 37.354265,
+    "lon": -121.889335,
+    "kind": "street"
+  },
+  {
+    "id": "p0293",
+    "name": "East William Street",
+    "lat": 37.336393,
+    "lon": -121.868933,
+    "kind": "street"
+  },
+  {
+    "id": "p0294",
+    "name": "eChinese Learning",
+    "lat": 37.339854,
+    "lon": -121.883604,
+    "kind": "language_school"
+  },
+  {
+    "id": "p0295",
+    "name": "Echo",
+    "lat": 37.336097,
+    "lon": -121.885804,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0296",
+    "name": "Eco Drop Spot",
+    "lat": 37.338974,
+    "lon": -121.884302,
+    "kind": "recycling"
+  },
+  {
+    "id": "p0297",
+    "name": "Eden Electrolysis",
+    "lat": 37.342723,
+    "lon": -121.87764,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0298",
+    "name": "Education",
+    "lat": 37.336526,
+    "lon": -121.884957,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0299",
+    "name": "Education Building",
+    "lat": 37.348278,
+    "lon": -121.893193,
+    "kind": "language_school"
+  },
+  {
+    "id": "p0300",
+    "name": "Eggo",
+    "lat": 37.356487,
+    "lon": -121.872198,
+    "kind": "building"
+  },
+  {
+    "id": "p0301",
+    "name": "Eggo Way",
+    "lat": 37.356406,
+    "lon": -121.871806,
+    "kind": "street"
+  },
+  {
+    "id": "p0302",
+    "name": "El Barber Juan",
+    "lat": 37.3537,
+    "lon": -121.891061,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0303",
+    "name": "El Dorado Apartments",
+    "lat": 37.337356,
+    "lon": -121.883408,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0304",
+    "name": "El Dorado Building",
+    "lat": 37.336521,
+    "lon": -121.894334,
+    "kind": "retail"
+  },
+  {
+    "id": "p0305",
+    "name": "El Guero Barber Shop",
+    "lat": 37.346058,
+    "lon": -121.894023,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0306",
+    "name": "El Oaxaqueño",
+    "lat": 37.345224,
+    "lon": -121.884227,
+    "kind": "gift"
+  },
+  {
+    "id": "p0307",
+    "name": "El Paseo de Cesar E. Chavez",
+    "lat": 37.33573,
+    "lon": -121.881575,
+    "kind": "street"
+  },
+  {
+    "id": "p0308",
+    "name": "Elegance Laser Skin Care",
+    "lat": 37.342782,
+    "lon": -121.877685,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0309",
+    "name": "Elizabeth Street",
+    "lat": 37.339816,
+    "lon": -121.881302,
+    "kind": "street"
+  },
+  {
+    "id": "p0310",
+    "name": "Empire and 7th Street",
+    "lat": 37.347692,
+    "lon": -121.89045,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0311",
+    "name": "Empire Gardens Elementary School",
+    "lat": 37.354663,
+    "lon": -121.875372,
+    "kind": "school"
+  },
+  {
+    "id": "p0312",
+    "name": "Empire Montessori Preschool",
+    "lat": 37.349466,
+    "lon": -121.886498,
+    "kind": "kindergarten"
+  },
+  {
+    "id": "p0313",
+    "name": "Empire Seven Studios",
+    "lat": 37.348165,
+    "lon": -121.891171,
+    "kind": "gallery"
+  },
+  {
+    "id": "p0314",
+    "name": "ENG 135",
+    "lat": 37.337381,
+    "lon": -121.882174,
+    "kind": "other"
+  },
+  {
+    "id": "p0315",
+    "name": "ENG 135A",
+    "lat": 37.337381,
+    "lon": -121.882281,
+    "kind": "other"
+  },
+  {
+    "id": "p0316",
+    "name": "ENG 137",
+    "lat": 37.337297,
+    "lon": -121.882288,
+    "kind": "other"
+  },
+  {
+    "id": "p0317",
+    "name": "ENG 141",
+    "lat": 37.337274,
+    "lon": -121.882428,
+    "kind": "other"
+  },
+  {
+    "id": "p0318",
+    "name": "ENG 141A",
+    "lat": 37.337333,
+    "lon": -121.882314,
+    "kind": "other"
+  },
+  {
+    "id": "p0319",
+    "name": "ENG 141B",
+    "lat": 37.337198,
+    "lon": -121.882478,
+    "kind": "other"
+  },
+  {
+    "id": "p0320",
+    "name": "Engineering Balcony",
+    "lat": 37.336487,
+    "lon": -121.88168,
+    "kind": "events_venue"
+  },
+  {
+    "id": "p0321",
+    "name": "Engineering Courtyard",
+    "lat": 37.337007,
+    "lon": -121.881865,
+    "kind": "parking"
+  },
+  {
+    "id": "p0322",
+    "name": "ENSŌ",
+    "lat": 37.337267,
+    "lon": -121.888768,
+    "kind": "nightclub"
+  },
+  {
+    "id": "p0323",
+    "name": "Entrees Unlimited",
+    "lat": 37.344302,
+    "lon": -121.886335,
+    "kind": "building"
+  },
+  {
+    "id": "p0324",
+    "name": "Ephesus Seventh Day Adventist Church",
+    "lat": 37.341925,
+    "lon": -121.88306,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0325",
+    "name": "Evergreen Barbershop",
+    "lat": 37.345315,
+    "lon": -121.871008,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0326",
+    "name": "Exhibit",
+    "lat": 37.348179,
+    "lon": -121.891252,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0327",
+    "name": "Extra Space Storage",
+    "lat": 37.354452,
+    "lon": -121.890584,
+    "kind": "storage_rental"
+  },
+  {
+    "id": "p0328",
+    "name": "ExtraMile",
+    "lat": 37.337807,
+    "lon": -121.888145,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0329",
+    "name": "Eyebrow Icon",
+    "lat": 37.350733,
+    "lon": -121.87114,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0330",
+    "name": "Eyes Eyes Eyes",
+    "lat": 37.336668,
+    "lon": -121.889863,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0331",
+    "name": "Face’s of Kenya",
+    "lat": 37.354969,
+    "lon": -121.88834,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0332",
+    "name": "Fama Apartments",
+    "lat": 37.341316,
+    "lon": -121.884662,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0333",
+    "name": "Families",
+    "lat": 37.338668,
+    "lon": -121.886775,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0334",
+    "name": "Family Dentistry",
+    "lat": 37.342928,
+    "lon": -121.87849,
+    "kind": "dentist"
+  },
+  {
+    "id": "p0335",
+    "name": "Family Justice Center Courthouse",
+    "lat": 37.338984,
+    "lon": -121.893841,
+    "kind": "courthouse"
+  },
+  {
+    "id": "p0336",
+    "name": "Famous Signs",
+    "lat": 37.339252,
+    "lon": -121.889117,
+    "kind": "other"
+  },
+  {
+    "id": "p0337",
+    "name": "Farts + Crafts Club",
+    "lat": 37.336388,
+    "lon": -121.893678,
+    "kind": "craft"
+  },
+  {
+    "id": "p0338",
+    "name": "Fast Pizza",
+    "lat": 37.348245,
+    "lon": -121.877897,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0339",
+    "name": "Fellowship Hall",
+    "lat": 37.348527,
+    "lon": -121.893419,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p0340",
+    "name": "Filipino Community Center",
+    "lat": 37.349947,
+    "lon": -121.894069,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p0341",
+    "name": "Firato Delicatessen",
+    "lat": 37.33634,
+    "lon": -121.889911,
+    "kind": "other"
+  },
+  {
+    "id": "p0342",
+    "name": "Firehouse No. 1",
+    "lat": 37.336286,
+    "lon": -121.893966,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0343",
+    "name": "First Church of Christ, Scientist",
+    "lat": 37.339621,
+    "lon": -121.8923,
+    "kind": "church"
+  },
+  {
+    "id": "p0344",
+    "name": "First Legal",
+    "lat": 37.339301,
+    "lon": -121.888989,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0345",
+    "name": "First Presbyterian Church of San Jose",
+    "lat": 37.338489,
+    "lon": -121.888528,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0346",
+    "name": "First Unitarian Church",
+    "lat": 37.339569,
+    "lon": -121.89007,
+    "kind": "memorial"
+  },
+  {
+    "id": "p0347",
+    "name": "FixLaptop.com",
+    "lat": 37.337189,
+    "lon": -121.887847,
+    "kind": "other"
+  },
+  {
+    "id": "p0348",
+    "name": "Flanagan Hall",
+    "lat": 37.340649,
+    "lon": -121.882827,
+    "kind": "sports_centre"
+  },
+  {
+    "id": "p0349",
+    "name": "Flores y Barrios",
+    "lat": 37.340141,
+    "lon": -121.89091,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0350",
+    "name": "Flowers By Ivy",
+    "lat": 37.339923,
+    "lon": -121.882229,
+    "kind": "florist"
+  },
+  {
+    "id": "p0351",
+    "name": "Former San Jose Medical Center",
+    "lat": 37.343499,
+    "lon": -121.877372,
+    "kind": "historic"
+  },
+  {
+    "id": "p0352",
+    "name": "Foto Express",
+    "lat": 37.338977,
+    "lon": -121.88379,
+    "kind": "photo"
+  },
+  {
+    "id": "p0353",
+    "name": "Founders Floor",
+    "lat": 37.33651,
+    "lon": -121.89049,
+    "kind": "coworking"
+  },
+  {
+    "id": "p0354",
+    "name": "Fountain Alley",
+    "lat": 37.335975,
+    "lon": -121.889711,
+    "kind": "street"
+  },
+  {
+    "id": "p0355",
+    "name": "Fountain Alley at 2nd",
+    "lat": 37.336076,
+    "lon": -121.889448,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0356",
+    "name": "Fountain Alley Office Building",
+    "lat": 37.336278,
+    "lon": -121.889787,
+    "kind": "commercial"
+  },
+  {
+    "id": "p0357",
+    "name": "Fountain Alley Parking",
+    "lat": 37.335586,
+    "lon": -121.889146,
+    "kind": "parking"
+  },
+  {
+    "id": "p0358",
+    "name": "Fourth & Saint John Garage",
+    "lat": 37.338782,
+    "lon": -121.88753,
+    "kind": "parking"
+  },
+  {
+    "id": "p0359",
+    "name": "Fox Tales",
+    "lat": 37.336312,
+    "lon": -121.889791,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0360",
+    "name": "Frank de Barber",
+    "lat": 37.337295,
+    "lon": -121.887738,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0361",
+    "name": "Freedom Worship Center",
+    "lat": 37.353327,
+    "lon": -121.885909,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0362",
+    "name": "Freshly Baked Eatery",
+    "lat": 37.339615,
+    "lon": -121.889766,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0363",
+    "name": "Friends' Book Sale",
+    "lat": 37.349755,
+    "lon": -121.886939,
+    "kind": "books"
+  },
+  {
+    "id": "p0364",
+    "name": "Frontal Law Group",
+    "lat": 37.342855,
+    "lon": -121.877673,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0365",
+    "name": "Future",
+    "lat": 37.3385,
+    "lon": -121.886652,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0366",
+    "name": "G.M. Major Appliance",
+    "lat": 37.354698,
+    "lon": -121.888015,
+    "kind": "appliance"
+  },
+  {
+    "id": "p0367",
+    "name": "Gameshop Downstairs",
+    "lat": 37.337263,
+    "lon": -121.887861,
+    "kind": "video_games"
+  },
+  {
+    "id": "p0368",
+    "name": "Garcia Pharmacy",
+    "lat": 37.342633,
+    "lon": -121.877457,
+    "kind": "pharmacy"
+  },
+  {
+    "id": "p0369",
+    "name": "Garciacare",
+    "lat": 37.342747,
+    "lon": -121.877521,
+    "kind": "pharmacy"
+  },
+  {
+    "id": "p0370",
+    "name": "Gardner Downtown Health Center",
+    "lat": 37.343505,
+    "lon": -121.875823,
+    "kind": "clinic"
+  },
+  {
+    "id": "p0371",
+    "name": "Gigante Express",
+    "lat": 37.339409,
+    "lon": -121.882687,
+    "kind": "money_transfer"
+  },
+  {
+    "id": "p0372",
+    "name": "Girls Gymnasium",
+    "lat": 37.35086,
+    "lon": -121.87302,
+    "kind": "sports_centre"
+  },
+  {
+    "id": "p0373",
+    "name": "Giáo Xứ Việt Nam Đức Mẹ La Vang",
+    "lat": 37.340594,
+    "lon": -121.883071,
+    "kind": "religious"
+  },
+  {
+    "id": "p0374",
+    "name": "Go Kids Incorporated",
+    "lat": 37.342644,
+    "lon": -121.877583,
+    "kind": "educational_institution"
+  },
+  {
+    "id": "p0375",
+    "name": "Gold Dust Studio",
+    "lat": 37.35366,
+    "lon": -121.891059,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0376",
+    "name": "Gold Rush",
+    "lat": 37.33688,
+    "lon": -121.885217,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0377",
+    "name": "Golden Plaza",
+    "lat": 37.339894,
+    "lon": -121.883556,
+    "kind": "commercial"
+  },
+  {
+    "id": "p0378",
+    "name": "Good Guys Bail Bonds",
+    "lat": 37.342287,
+    "lon": -121.89066,
+    "kind": "bail_bond_agent"
+  },
+  {
+    "id": "p0379",
+    "name": "Goodtime Bar",
+    "lat": 37.336105,
+    "lon": -121.889676,
+    "kind": "pub"
+  },
+  {
+    "id": "p0380",
+    "name": "Gordon Biersch Brewery",
+    "lat": 37.353237,
+    "lon": -121.892498,
+    "kind": "industrial"
+  },
+  {
+    "id": "p0381",
+    "name": "Gordon Biersch Brewery",
+    "lat": 37.353459,
+    "lon": -121.89261,
+    "kind": "industrial"
+  },
+  {
+    "id": "p0382",
+    "name": "Grace Baptist Church",
+    "lat": 37.338879,
+    "lon": -121.879011,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0383",
+    "name": "Grace Community Center",
+    "lat": 37.338357,
+    "lon": -121.878927,
+    "kind": "house"
+  },
+  {
+    "id": "p0384",
+    "name": "Grant Elementary School",
+    "lat": 37.350834,
+    "lon": -121.887893,
+    "kind": "school"
+  },
+  {
+    "id": "p0385",
+    "name": "Grant Elementary School",
+    "lat": 37.351428,
+    "lon": -121.888818,
+    "kind": "sign"
+  },
+  {
+    "id": "p0386",
+    "name": "Grant Preschool",
+    "lat": 37.350279,
+    "lon": -121.88706,
+    "kind": "childcare"
+  },
+  {
+    "id": "p0387",
+    "name": "Grocery Outlet",
+    "lat": 37.338305,
+    "lon": -121.883998,
+    "kind": "supermarket"
+  },
+  {
+    "id": "p0388",
+    "name": "Gross/Holmes Building",
+    "lat": 37.336753,
+    "lon": -121.891349,
+    "kind": "other"
+  },
+  {
+    "id": "p0389",
+    "name": "Groundwerx",
+    "lat": 37.337467,
+    "lon": -121.891756,
+    "kind": "other"
+  },
+  {
+    "id": "p0390",
+    "name": "Gummicube",
+    "lat": 37.338218,
+    "lon": -121.890073,
+    "kind": "company"
+  },
+  {
+    "id": "p0391",
+    "name": "Guru’s Market",
+    "lat": 37.346677,
+    "lon": -121.881275,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0392",
+    "name": "Guru’s Market",
+    "lat": 37.352607,
+    "lon": -121.881217,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0393",
+    "name": "H&L Realty",
+    "lat": 37.34634,
+    "lon": -121.869888,
+    "kind": "estate_agent"
+  },
+  {
+    "id": "p0394",
+    "name": "Habibiz",
+    "lat": 37.338134,
+    "lon": -121.884608,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0395",
+    "name": "Hacienda Creek",
+    "lat": 37.355939,
+    "lon": -121.869547,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0396",
+    "name": "Hacienda Park",
+    "lat": 37.355437,
+    "lon": -121.869907,
+    "kind": "park"
+  },
+  {
+    "id": "p0397",
+    "name": "Hair by Sooki",
+    "lat": 37.35367,
+    "lon": -121.891091,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0398",
+    "name": "Hairapy Student",
+    "lat": 37.353728,
+    "lon": -121.891075,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0399",
+    "name": "Haley Guiliano LLP",
+    "lat": 37.337681,
+    "lon": -121.894028,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0400",
+    "name": "Halloway",
+    "lat": 37.348878,
+    "lon": -121.893639,
+    "kind": "clothes"
+  },
+  {
+    "id": "p0401",
+    "name": "Hanover Cannery Park",
+    "lat": 37.354375,
+    "lon": -121.891976,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0402",
+    "name": "Hanover Cannery Park",
+    "lat": 37.354622,
+    "lon": -121.892415,
+    "kind": "residential"
+  },
+  {
+    "id": "p0403",
+    "name": "Hardcore Hair",
+    "lat": 37.353746,
+    "lon": -121.891033,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0404",
+    "name": "HD Income Tax",
+    "lat": 37.346426,
+    "lon": -121.869975,
+    "kind": "tax_advisor"
+  },
+  {
+    "id": "p0405",
+    "name": "Heinlenville Park",
+    "lat": 37.350616,
+    "lon": -121.893958,
+    "kind": "sign"
+  },
+  {
+    "id": "p0406",
+    "name": "Hello From Mars",
+    "lat": 37.349759,
+    "lon": -121.893821,
+    "kind": "art"
+  },
+  {
+    "id": "p0407",
+    "name": "Henry Morris Naglee Memorial",
+    "lat": 37.338371,
+    "lon": -121.890534,
+    "kind": "monument"
+  },
+  {
+    "id": "p0408",
+    "name": "Hensley Historic District",
+    "lat": 37.344573,
+    "lon": -121.893377,
+    "kind": "district"
+  },
+  {
+    "id": "p0409",
+    "name": "Hensley Street",
+    "lat": 37.34467,
+    "lon": -121.89407,
+    "kind": "street"
+  },
+  {
+    "id": "p0410",
+    "name": "Hibiscus Studio",
+    "lat": 37.337332,
+    "lon": -121.887699,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0411",
+    "name": "High Noon",
+    "lat": 37.353728,
+    "lon": -121.891032,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0412",
+    "name": "High Technology",
+    "lat": 37.336433,
+    "lon": -121.885155,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0413",
+    "name": "Hillbrook School San José Campus",
+    "lat": 37.339875,
+    "lon": -121.892724,
+    "kind": "school"
+  },
+  {
+    "id": "p0414",
+    "name": "Hillbrook Upper School",
+    "lat": 37.339953,
+    "lon": -121.892554,
+    "kind": "school"
+  },
+  {
+    "id": "p0415",
+    "name": "Hobee's Restaurant",
+    "lat": 37.340389,
+    "lon": -121.892784,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0416",
+    "name": "Holistic Health Care Clinic",
+    "lat": 37.341987,
+    "lon": -121.879174,
+    "kind": "alternative"
+  },
+  {
+    "id": "p0417",
+    "name": "Hollister Smog 2",
+    "lat": 37.355836,
+    "lon": -121.888838,
+    "kind": "vehicle_inspection"
+  },
+  {
+    "id": "p0418",
+    "name": "Holy Cannoli! Catering",
+    "lat": 37.337289,
+    "lon": -121.887765,
+    "kind": "other"
+  },
+  {
+    "id": "p0419",
+    "name": "Holy Cross Church",
+    "lat": 37.35224,
+    "lon": -121.886737,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0420",
+    "name": "Holy Cross Rectory",
+    "lat": 37.352393,
+    "lon": -121.886606,
+    "kind": "parish"
+  },
+  {
+    "id": "p0421",
+    "name": "Home Eat;汉家宴",
+    "lat": 37.336171,
+    "lon": -121.886063,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0422",
+    "name": "Horace Mann",
+    "lat": 37.340724,
+    "lon": -121.88467,
+    "kind": "other"
+  },
+  {
+    "id": "p0423",
+    "name": "Horace Mann Elementary School",
+    "lat": 37.339596,
+    "lon": -121.88524,
+    "kind": "school"
+  },
+  {
+    "id": "p0424",
+    "name": "Hotel",
+    "lat": 37.336798,
+    "lon": -121.892864,
+    "kind": "other"
+  },
+  {
+    "id": "p0425",
+    "name": "Hotel Clariana",
+    "lat": 37.337032,
+    "lon": -121.888103,
+    "kind": "hotel"
+  },
+  {
+    "id": "p0426",
+    "name": "Hotel Clariana Gift Shop",
+    "lat": 37.337105,
+    "lon": -121.888222,
+    "kind": "gift"
+  },
+  {
+    "id": "p0427",
+    "name": "Hotworx",
+    "lat": 37.336632,
+    "lon": -121.889068,
+    "kind": "fitness_centre"
+  },
+  {
+    "id": "p0428",
+    "name": "Houdini’s Smoke Shop",
+    "lat": 37.337158,
+    "lon": -121.888029,
+    "kind": "tobacco"
+  },
+  {
+    "id": "p0429",
+    "name": "House Of Bagels",
+    "lat": 37.336756,
+    "lon": -121.876332,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0430",
+    "name": "Hugh Gillis Hall",
+    "lat": 37.336026,
+    "lon": -121.884506,
+    "kind": "university"
+  },
+  {
+    "id": "p0431",
+    "name": "Hukilau San Jose",
+    "lat": 37.34904,
+    "lon": -121.893618,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0432",
+    "name": "Hội Thánh Sống Tin Hy Vọng",
+    "lat": 37.35104,
+    "lon": -121.870638,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0433",
+    "name": "ID Cafe",
+    "lat": 37.336611,
+    "lon": -121.894175,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0434",
+    "name": "Iglesia Bautista Betel",
+    "lat": 37.34901,
+    "lon": -121.888908,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0435",
+    "name": "Iglesia La Luz del Mundo",
+    "lat": 37.347215,
+    "lon": -121.893481,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0436",
+    "name": "Ike's Love and Sandwiches",
+    "lat": 37.33693,
+    "lon": -121.889451,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0437",
+    "name": "Image.Ie Salon",
+    "lat": 37.340084,
+    "lon": -121.893739,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0438",
+    "name": "Impala",
+    "lat": 37.337218,
+    "lon": -121.887834,
+    "kind": "company"
+  },
+  {
+    "id": "p0439",
+    "name": "Imprenta Total",
+    "lat": 37.356454,
+    "lon": -121.889157,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0440",
+    "name": "Indian Health Center of Santa Clara Valley",
+    "lat": 37.342031,
+    "lon": -121.877715,
+    "kind": "clinic"
+  },
+  {
+    "id": "p0441",
+    "name": "Industrial Studies Building",
+    "lat": 37.337542,
+    "lon": -121.880783,
+    "kind": "university"
+  },
+  {
+    "id": "p0442",
+    "name": "Inez Jackson Library",
+    "lat": 37.34345,
+    "lon": -121.888461,
+    "kind": "library"
+  },
+  {
+    "id": "p0443",
+    "name": "Innovation",
+    "lat": 37.337348,
+    "lon": -121.885573,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0444",
+    "name": "Instructional Resource Center",
+    "lat": 37.336307,
+    "lon": -121.883428,
+    "kind": "educational_institution"
+  },
+  {
+    "id": "p0445",
+    "name": "Interview with an Icon",
+    "lat": 37.339292,
+    "lon": -121.883367,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0446",
+    "name": "Island Taste",
+    "lat": 37.338661,
+    "lon": -121.885879,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0447",
+    "name": "ISO Beers",
+    "lat": 37.33704,
+    "lon": -121.889197,
+    "kind": "pub"
+  },
+  {
+    "id": "p0448",
+    "name": "Issei Memorial Building",
+    "lat": 37.347944,
+    "lon": -121.894017,
+    "kind": "heritage"
+  },
+  {
+    "id": "p0449",
+    "name": "Issei Pioneer Stone",
+    "lat": 37.348935,
+    "lon": -121.894172,
+    "kind": "memorial"
+  },
+  {
+    "id": "p0450",
+    "name": "Issei Voices",
+    "lat": 37.34887,
+    "lon": -121.89414,
+    "kind": "bench"
+  },
+  {
+    "id": "p0451",
+    "name": "Italian American Heritage Foundation Cultural Center",
+    "lat": 37.344484,
+    "lon": -121.892875,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p0452",
+    "name": "Ivy + Mane",
+    "lat": 37.353712,
+    "lon": -121.891032,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0453",
+    "name": "J&F Liquors & Groceries",
+    "lat": 37.35506,
+    "lon": -121.888011,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0454",
+    "name": "J-Town Clay",
+    "lat": 37.348588,
+    "lon": -121.890731,
+    "kind": "building"
+  },
+  {
+    "id": "p0455",
+    "name": "J-Town Community TV",
+    "lat": 37.347972,
+    "lon": -121.894075,
+    "kind": "studio"
+  },
+  {
+    "id": "p0456",
+    "name": "Jacinto “Tony” Siquig Northside Community Center",
+    "lat": 37.347204,
+    "lon": -121.891126,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p0457",
+    "name": "Jack LLC;JB Restaurant",
+    "lat": 37.340397,
+    "lon": -121.881197,
+    "kind": "company"
+  },
+  {
+    "id": "p0458",
+    "name": "Jackson Street",
+    "lat": 37.352589,
+    "lon": -121.886798,
+    "kind": "street"
+  },
+  {
+    "id": "p0459",
+    "name": "Jamba",
+    "lat": 37.33646,
+    "lon": -121.881018,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0460",
+    "name": "Janet Gray Hayes Rotunda",
+    "lat": 37.337683,
+    "lon": -121.885969,
+    "kind": "events_venue"
+  },
+  {
+    "id": "p0461",
+    "name": "Japan Town Medical Group",
+    "lat": 37.349586,
+    "lon": -121.89263,
+    "kind": "doctors"
+  },
+  {
+    "id": "p0462",
+    "name": "Japanese American Museum of San Jose",
+    "lat": 37.347503,
+    "lon": -121.893711,
+    "kind": "museum"
+  },
+  {
+    "id": "p0463",
+    "name": "Japanese Fusion",
+    "lat": 37.336418,
+    "lon": -121.881375,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0464",
+    "name": "Japanese Kuwabara Hospital",
+    "lat": 37.348004,
+    "lon": -121.893791,
+    "kind": "information"
+  },
+  {
+    "id": "p0465",
+    "name": "Japantown",
+    "lat": 37.34896,
+    "lon": -121.89423,
+    "kind": "suburb"
+  },
+  {
+    "id": "p0466",
+    "name": "Japantown Certified Farmer’s Market",
+    "lat": 37.353837,
+    "lon": -121.892972,
+    "kind": "marketplace"
+  },
+  {
+    "id": "p0467",
+    "name": "Japantown Community Congress of San Jose",
+    "lat": 37.347931,
+    "lon": -121.894042,
+    "kind": "association"
+  },
+  {
+    "id": "p0468",
+    "name": "Japantown Lions Foundation",
+    "lat": 37.347888,
+    "lon": -121.894008,
+    "kind": "charity"
+  },
+  {
+    "id": "p0469",
+    "name": "Japantown Optometry",
+    "lat": 37.349022,
+    "lon": -121.893949,
+    "kind": "optometrist"
+  },
+  {
+    "id": "p0470",
+    "name": "JayNet Hair Studio",
+    "lat": 37.353683,
+    "lon": -121.89105,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0471",
+    "name": "Jeanne D' Arc Manor",
+    "lat": 37.336731,
+    "lon": -121.88546,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0472",
+    "name": "Jeanne d’Arc Manor",
+    "lat": 37.3367,
+    "lon": -121.885684,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0473",
+    "name": "Jishin Terrace",
+    "lat": 37.35614,
+    "lon": -121.89434,
+    "kind": "street"
+  },
+  {
+    "id": "p0474",
+    "name": "John Heinlen & The Heinlen Family Company;約翰·海因倫及其家族",
+    "lat": 37.350506,
+    "lon": -121.89376,
+    "kind": "information"
+  },
+  {
+    "id": "p0475",
+    "name": "John Heinlen (1815–1903)",
+    "lat": 37.350683,
+    "lon": -121.893979,
+    "kind": "bench"
+  },
+  {
+    "id": "p0476",
+    "name": "John XXIII Center",
+    "lat": 37.336472,
+    "lon": -121.8854,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0477",
+    "name": "JohnnyQuickwash Laundry",
+    "lat": 37.336448,
+    "lon": -121.876956,
+    "kind": "laundry"
+  },
+  {
+    "id": "p0478",
+    "name": "Joyce Ellington Branch Library",
+    "lat": 37.349798,
+    "lon": -121.887062,
+    "kind": "library"
+  },
+  {
+    "id": "p0479",
+    "name": "Joyería Torres Incorporated",
+    "lat": 37.339153,
+    "lon": -121.883738,
+    "kind": "money_transfer"
+  },
+  {
+    "id": "p0480",
+    "name": "JR Center",
+    "lat": 37.35137,
+    "lon": -121.870261,
+    "kind": "building"
+  },
+  {
+    "id": "p0481",
+    "name": "Jtown Pizza Company",
+    "lat": 37.349808,
+    "lon": -121.893871,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0482",
+    "name": "Juice Town",
+    "lat": 37.337176,
+    "lon": -121.883626,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0483",
+    "name": "Julian at North 6th",
+    "lat": 37.342977,
+    "lon": -121.888935,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0484",
+    "name": "Julian Gardens",
+    "lat": 37.344159,
+    "lon": -121.886909,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0485",
+    "name": "K&K Visage Beauty Lounge",
+    "lat": 37.344956,
+    "lon": -121.871722,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0486",
+    "name": "K's Hair Salon",
+    "lat": 37.353698,
+    "lon": -121.891015,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0487",
+    "name": "Kaita",
+    "lat": 37.349299,
+    "lon": -121.894065,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0488",
+    "name": "Kali Noodles & Tea Bar",
+    "lat": 37.339748,
+    "lon": -121.882362,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0489",
+    "name": "Kappa Sigma",
+    "lat": 37.338627,
+    "lon": -121.877667,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0490",
+    "name": "Kawakami Building",
+    "lat": 37.349438,
+    "lon": -121.89384,
+    "kind": "building"
+  },
+  {
+    "id": "p0491",
+    "name": "Kay’s Shiseido",
+    "lat": 37.349199,
+    "lon": -121.894297,
+    "kind": "cosmetics"
+  },
+  {
+    "id": "p0492",
+    "name": "Kazoo",
+    "lat": 37.3492,
+    "lon": -121.893287,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0493",
+    "name": "KB Beauty Salon",
+    "lat": 37.340193,
+    "lon": -121.881629,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0494",
+    "name": "Kelly’s Liquors",
+    "lat": 37.346297,
+    "lon": -121.893511,
+    "kind": "alcohol"
+  },
+  {
+    "id": "p0495",
+    "name": "Kelvin Auto Repair",
+    "lat": 37.357197,
+    "lon": -121.88891,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0496",
+    "name": "Ken Ying Low Building",
+    "lat": 37.349807,
+    "lon": -121.893872,
+    "kind": "building"
+  },
+  {
+    "id": "p0497",
+    "name": "KFC",
+    "lat": 37.34153,
+    "lon": -121.878749,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0498",
+    "name": "Kia Fay Styles",
+    "lat": 37.353748,
+    "lon": -121.891105,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0499",
+    "name": "Kiem Service Laundromat",
+    "lat": 37.348479,
+    "lon": -121.889893,
+    "kind": "laundry"
+  },
+  {
+    "id": "p0500",
+    "name": "Kim & Stewart LLP",
+    "lat": 37.337972,
+    "lon": -121.894339,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0501",
+    "name": "Kim’s Daycare",
+    "lat": 37.34293,
+    "lon": -121.884443,
+    "kind": "childcare"
+  },
+  {
+    "id": "p0502",
+    "name": "KJ’s Cafe",
+    "lat": 37.337856,
+    "lon": -121.885435,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0503",
+    "name": "KL Auto Repair",
+    "lat": 37.353748,
+    "lon": -121.887143,
+    "kind": "vehicle_inspection"
+  },
+  {
+    "id": "p0504",
+    "name": "Kogura",
+    "lat": 37.349506,
+    "lon": -121.893648,
+    "kind": "variety_store"
+  },
+  {
+    "id": "p0505",
+    "name": "Kumako Ramen",
+    "lat": 37.349269,
+    "lon": -121.894119,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0506",
+    "name": "L&R Building",
+    "lat": 37.336756,
+    "lon": -121.887727,
+    "kind": "commercial"
+  },
+  {
+    "id": "p0507",
+    "name": "La Bella Salon",
+    "lat": 37.340913,
+    "lon": -121.880123,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0508",
+    "name": "La Estrella Market",
+    "lat": 37.351866,
+    "lon": -121.868997,
+    "kind": "supermarket"
+  },
+  {
+    "id": "p0509",
+    "name": "La Raza Super Market",
+    "lat": 37.345122,
+    "lon": -121.871083,
+    "kind": "supermarket"
+  },
+  {
+    "id": "p0510",
+    "name": "La Victoria Taqueria",
+    "lat": 37.341729,
+    "lon": -121.890794,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0511",
+    "name": "Labor of Love",
+    "lat": 37.340117,
+    "lon": -121.893012,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0512",
+    "name": "Labor Temple",
+    "lat": 37.337791,
+    "lon": -121.890263,
+    "kind": "information"
+  },
+  {
+    "id": "p0513",
+    "name": "Lane 15 Spartan Snacks",
+    "lat": 37.336458,
+    "lon": -121.880291,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0514",
+    "name": "Launderlux",
+    "lat": 37.356488,
+    "lon": -121.88852,
+    "kind": "laundry"
+  },
+  {
+    "id": "p0515",
+    "name": "Law Office of Gregory M. Alonzo",
+    "lat": 37.341073,
+    "lon": -121.893446,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0516",
+    "name": "Law Offices of Danning Jiang",
+    "lat": 37.340251,
+    "lon": -121.893865,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0517",
+    "name": "LC Engineering",
+    "lat": 37.341711,
+    "lon": -121.878263,
+    "kind": "engineer"
+  },
+  {
+    "id": "p0518",
+    "name": "LD-Lucky Market",
+    "lat": 37.348324,
+    "lon": -121.877951,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0519",
+    "name": "Le Bail Bonds",
+    "lat": 37.346321,
+    "lon": -121.869939,
+    "kind": "bail_bond_agent"
+  },
+  {
+    "id": "p0520",
+    "name": "Le Petit Trianon",
+    "lat": 37.339352,
+    "lon": -121.886703,
+    "kind": "church"
+  },
+  {
+    "id": "p0521",
+    "name": "Leasing Center",
+    "lat": 37.337242,
+    "lon": -121.891214,
+    "kind": "other"
+  },
+  {
+    "id": "p0522",
+    "name": "Lee’s Sandwiches",
+    "lat": 37.338417,
+    "lon": -121.884806,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0523",
+    "name": "Leftridge Transportation",
+    "lat": 37.337915,
+    "lon": -121.894221,
+    "kind": "company"
+  },
+  {
+    "id": "p0524",
+    "name": "Legal Pursuit",
+    "lat": 37.337362,
+    "lon": -121.891971,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0525",
+    "name": "Legato’s Apartments",
+    "lat": 37.337283,
+    "lon": -121.887616,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0526",
+    "name": "Lena Hair & Nails",
+    "lat": 37.345679,
+    "lon": -121.870194,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0527",
+    "name": "Leonel V. Dickey, DDS",
+    "lat": 37.342836,
+    "lon": -121.875831,
+    "kind": "dentist"
+  },
+  {
+    "id": "p0528",
+    "name": "Let Out Bail Bonds",
+    "lat": 37.34641,
+    "lon": -121.87001,
+    "kind": "bail_bond_agent"
+  },
+  {
+    "id": "p0529",
+    "name": "Licursi’s",
+    "lat": 37.340634,
+    "lon": -121.881779,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0530",
+    "name": "Lieutenant Colonel Louis J. Van Dalsem",
+    "lat": 37.340265,
+    "lon": -121.891981,
+    "kind": "memorial"
+  },
+  {
+    "id": "p0531",
+    "name": "Life in Heinlenville;海因倫鎮里的生活",
+    "lat": 37.35052,
+    "lon": -121.893742,
+    "kind": "information"
+  },
+  {
+    "id": "p0532",
+    "name": "LifeMoves",
+    "lat": 37.338273,
+    "lon": -121.877464,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0533",
+    "name": "Lily's Hair and Nails",
+    "lat": 37.353165,
+    "lon": -121.886194,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0534",
+    "name": "Lily’s Hair & Nails",
+    "lat": 37.353177,
+    "lon": -121.886193,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0535",
+    "name": "Lions and Lambs Daycare",
+    "lat": 37.350197,
+    "lon": -121.8788,
+    "kind": "childcare"
+  },
+  {
+    "id": "p0536",
+    "name": "Liquid",
+    "lat": 37.336691,
+    "lon": -121.88785,
+    "kind": "bar"
+  },
+  {
+    "id": "p0537",
+    "name": "Lisa Nguyen @ Everose",
+    "lat": 37.353705,
+    "lon": -121.890997,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0538",
+    "name": "Little Caesars",
+    "lat": 37.351802,
+    "lon": -121.870781,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0539",
+    "name": "Little Einstein’s Montessori Preschool",
+    "lat": 37.338753,
+    "lon": -121.886181,
+    "kind": "kindergarten"
+  },
+  {
+    "id": "p0540",
+    "name": "Little Free Library",
+    "lat": 37.348193,
+    "lon": -121.892475,
+    "kind": "public_bookcase"
+  },
+  {
+    "id": "p0541",
+    "name": "Little Free Library",
+    "lat": 37.355698,
+    "lon": -121.890644,
+    "kind": "public_bookcase"
+  },
+  {
+    "id": "p0542",
+    "name": "Lock Shop & Key Control",
+    "lat": 37.338162,
+    "lon": -121.879518,
+    "kind": "other"
+  },
+  {
+    "id": "p0543",
+    "name": "Loteria Taco Bar",
+    "lat": 37.336468,
+    "lon": -121.894338,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0544",
+    "name": "Love & Rooted",
+    "lat": 37.35367,
+    "lon": -121.891019,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0545",
+    "name": "Love Fashion",
+    "lat": 37.340734,
+    "lon": -121.881393,
+    "kind": "clothes"
+  },
+  {
+    "id": "p0546",
+    "name": "Lower Silver Creek",
+    "lat": 37.357605,
+    "lon": -121.86752,
+    "kind": "other"
+  },
+  {
+    "id": "p0547",
+    "name": "Lower Silver Creek",
+    "lat": 37.336974,
+    "lon": -121.84132,
+    "kind": "other"
+  },
+  {
+    "id": "p0548",
+    "name": "LTM Smog & Repair",
+    "lat": 37.354684,
+    "lon": -121.887231,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0549",
+    "name": "Lucky Pure Water",
+    "lat": 37.346728,
+    "lon": -121.881357,
+    "kind": "water"
+  },
+  {
+    "id": "p0550",
+    "name": "Luna Park",
+    "lat": 37.355025,
+    "lon": -121.885071,
+    "kind": "suburb"
+  },
+  {
+    "id": "p0551",
+    "name": "Lux Studio",
+    "lat": 37.342316,
+    "lon": -121.87719,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0552",
+    "name": "Mabuhay Court",
+    "lat": 37.347195,
+    "lon": -121.89079,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0553",
+    "name": "Main Post Office",
+    "lat": 37.338003,
+    "lon": -121.89204,
+    "kind": "information"
+  },
+  {
+    "id": "p0554",
+    "name": "Manzana Place",
+    "lat": 37.349882,
+    "lon": -121.889773,
+    "kind": "street"
+  },
+  {
+    "id": "p0555",
+    "name": "Mariani Lane",
+    "lat": 37.350216,
+    "lon": -121.890961,
+    "kind": "street"
+  },
+  {
+    "id": "p0556",
+    "name": "Mariani Packing Company",
+    "lat": 37.350218,
+    "lon": -121.890744,
+    "kind": "water_tower"
+  },
+  {
+    "id": "p0557",
+    "name": "Mariani Square",
+    "lat": 37.349739,
+    "lon": -121.890485,
+    "kind": "residential"
+  },
+  {
+    "id": "p0558",
+    "name": "Maria’s Night Club",
+    "lat": 37.356254,
+    "lon": -121.888249,
+    "kind": "nightclub"
+  },
+  {
+    "id": "p0559",
+    "name": "Market and San Pedro Square Garage",
+    "lat": 37.3364,
+    "lon": -121.893354,
+    "kind": "parking"
+  },
+  {
+    "id": "p0560",
+    "name": "Market Square",
+    "lat": 37.337348,
+    "lon": -121.894056,
+    "kind": "commercial"
+  },
+  {
+    "id": "p0561",
+    "name": "Market Square",
+    "lat": 37.337803,
+    "lon": -121.894203,
+    "kind": "commercial"
+  },
+  {
+    "id": "p0562",
+    "name": "Markham Substation",
+    "lat": 37.336273,
+    "lon": -121.87819,
+    "kind": "other"
+  },
+  {
+    "id": "p0563",
+    "name": "Marquis",
+    "lat": 37.356069,
+    "lon": -121.893242,
+    "kind": "residential"
+  },
+  {
+    "id": "p0564",
+    "name": "Martin Fausto Insurance",
+    "lat": 37.352954,
+    "lon": -121.886491,
+    "kind": "insurance"
+  },
+  {
+    "id": "p0565",
+    "name": "McKinley",
+    "lat": 37.33869,
+    "lon": -121.892114,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0566",
+    "name": "Medical Arts Building",
+    "lat": 37.342572,
+    "lon": -121.876326,
+    "kind": "commercial"
+  },
+  {
+    "id": "p0567",
+    "name": "Mega Drugs",
+    "lat": 37.342517,
+    "lon": -121.876408,
+    "kind": "pharmacy"
+  },
+  {
+    "id": "p0568",
+    "name": "Messenger of Peace Assembly of God Church",
+    "lat": 37.342997,
+    "lon": -121.886622,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0569",
+    "name": "Metro by T-Mobile",
+    "lat": 37.355949,
+    "lon": -121.888678,
+    "kind": "mobile_phone"
+  },
+  {
+    "id": "p0570",
+    "name": "Metro by T-Mobile",
+    "lat": 37.345008,
+    "lon": -121.871607,
+    "kind": "mobile_phone"
+  },
+  {
+    "id": "p0571",
+    "name": "Metro by T-Mobile",
+    "lat": 37.340084,
+    "lon": -121.881739,
+    "kind": "mobile_phone"
+  },
+  {
+    "id": "p0572",
+    "name": "Metro by T-Mobile",
+    "lat": 37.337231,
+    "lon": -121.88891,
+    "kind": "mobile_phone"
+  },
+  {
+    "id": "p0573",
+    "name": "Metro Public",
+    "lat": 37.338222,
+    "lon": -121.884293,
+    "kind": "other"
+  },
+  {
+    "id": "p0574",
+    "name": "Metropolitan Court Apartments",
+    "lat": 37.342884,
+    "lon": -121.89375,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0575",
+    "name": "Mezzetti Building",
+    "lat": 37.341072,
+    "lon": -121.89337,
+    "kind": "house"
+  },
+  {
+    "id": "p0576",
+    "name": "Mezzetti Law Firm",
+    "lat": 37.341042,
+    "lon": -121.893428,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0577",
+    "name": "Michel Income Tax",
+    "lat": 37.343986,
+    "lon": -121.883818,
+    "kind": "tax_advisor"
+  },
+  {
+    "id": "p0578",
+    "name": "Mikee’s Auto Repair",
+    "lat": 37.354874,
+    "lon": -121.887197,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0579",
+    "name": "Minasan",
+    "lat": 37.348975,
+    "lon": -121.893977,
+    "kind": "gift"
+  },
+  {
+    "id": "p0580",
+    "name": "Minato",
+    "lat": 37.349776,
+    "lon": -121.893746,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0581",
+    "name": "Mind & Beauty Wellness Center & Spa",
+    "lat": 37.339924,
+    "lon": -121.886552,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0582",
+    "name": "Minh Hoa Appliance Sales & Service",
+    "lat": 37.348609,
+    "lon": -121.889554,
+    "kind": "appliance"
+  },
+  {
+    "id": "p0583",
+    "name": "Minh Quang Thái, M.D.",
+    "lat": 37.342974,
+    "lon": -121.878518,
+    "kind": "doctors"
+  },
+  {
+    "id": "p0584",
+    "name": "Miniboss",
+    "lat": 37.336589,
+    "lon": -121.889186,
+    "kind": "bar"
+  },
+  {
+    "id": "p0585",
+    "name": "Ministerio Palabra de la Vida",
+    "lat": 37.350901,
+    "lon": -121.884991,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0586",
+    "name": "Mio",
+    "lat": 37.351753,
+    "lon": -121.893176,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0587",
+    "name": "Mio",
+    "lat": 37.351354,
+    "lon": -121.892985,
+    "kind": "residential"
+  },
+  {
+    "id": "p0588",
+    "name": "Miraido Village Apartments",
+    "lat": 37.3487,
+    "lon": -121.892417,
+    "kind": "residential"
+  },
+  {
+    "id": "p0589",
+    "name": "Miro",
+    "lat": 37.338295,
+    "lon": -121.887182,
+    "kind": "residential"
+  },
+  {
+    "id": "p0590",
+    "name": "Miro East Tower",
+    "lat": 37.338319,
+    "lon": -121.88687,
+    "kind": "residential"
+  },
+  {
+    "id": "p0591",
+    "name": "Miro West Tower",
+    "lat": 37.338277,
+    "lon": -121.887463,
+    "kind": "residential"
+  },
+  {
+    "id": "p0592",
+    "name": "Miskarie Hair Salon",
+    "lat": 37.338158,
+    "lon": -121.88443,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0593",
+    "name": "Mitchell Parking Lot",
+    "lat": 37.336597,
+    "lon": -121.892002,
+    "kind": "parking"
+  },
+  {
+    "id": "p0594",
+    "name": "Moir Building",
+    "lat": 37.339523,
+    "lon": -121.893398,
+    "kind": "hotel"
+  },
+  {
+    "id": "p0595",
+    "name": "MOMENT",
+    "lat": 37.336414,
+    "lon": -121.893698,
+    "kind": "retail"
+  },
+  {
+    "id": "p0596",
+    "name": "Moment Japantown",
+    "lat": 37.34894,
+    "lon": -121.894051,
+    "kind": "gift"
+  },
+  {
+    "id": "p0597",
+    "name": "Momentum for Health - Litteral House",
+    "lat": 37.341053,
+    "lon": -121.875714,
+    "kind": "psychotherapist"
+  },
+  {
+    "id": "p0598",
+    "name": "Mommy’s Bánh Mì",
+    "lat": 37.336816,
+    "lon": -121.892785,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0599",
+    "name": "Monferino Drive",
+    "lat": 37.358032,
+    "lon": -121.878313,
+    "kind": "street"
+  },
+  {
+    "id": "p0600",
+    "name": "Mountain Mike's",
+    "lat": 37.336269,
+    "lon": -121.888016,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0601",
+    "name": "Muchos!",
+    "lat": 37.336703,
+    "lon": -121.888919,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0602",
+    "name": "Mufflers El Sapo Catalytic Converters",
+    "lat": 37.35394,
+    "lon": -121.869669,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0603",
+    "name": "México Bakery #2",
+    "lat": 37.337206,
+    "lon": -121.888963,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0604",
+    "name": "Nagareda Studio",
+    "lat": 37.34926,
+    "lon": -121.894246,
+    "kind": "other"
+  },
+  {
+    "id": "p0605",
+    "name": "Naglee Park",
+    "lat": 37.338402,
+    "lon": -121.874715,
+    "kind": "neighbourhood"
+  },
+  {
+    "id": "p0606",
+    "name": "Naglee Park Garage",
+    "lat": 37.336887,
+    "lon": -121.876175,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0607",
+    "name": "National Traffic Safety Institute",
+    "lat": 37.341287,
+    "lon": -121.890605,
+    "kind": "training"
+  },
+  {
+    "id": "p0608",
+    "name": "Natural Environment",
+    "lat": 37.338817,
+    "lon": -121.886895,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0609",
+    "name": "Needle to the Groove",
+    "lat": 37.34024,
+    "lon": -121.881397,
+    "kind": "music"
+  },
+  {
+    "id": "p0610",
+    "name": "Neeya Thai Kitchen",
+    "lat": 37.337154,
+    "lon": -121.883653,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0611",
+    "name": "Neighborhoods",
+    "lat": 37.339326,
+    "lon": -121.887266,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0612",
+    "name": "Neighborhood’s Market",
+    "lat": 37.345417,
+    "lon": -121.879202,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0613",
+    "name": "Nelson Mandela",
+    "lat": 37.33659,
+    "lon": -121.890024,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0614",
+    "name": "New Ballet San Jose",
+    "lat": 37.33986,
+    "lon": -121.890074,
+    "kind": "dancing_school"
+  },
+  {
+    "id": "p0615",
+    "name": "New Beginnings Community Church San Jose Campus",
+    "lat": 37.339352,
+    "lon": -121.886703,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0616",
+    "name": "New Century Block",
+    "lat": 37.336845,
+    "lon": -121.888922,
+    "kind": "information"
+  },
+  {
+    "id": "p0617",
+    "name": "New Century Commons",
+    "lat": 37.335829,
+    "lon": -121.888618,
+    "kind": "building"
+  },
+  {
+    "id": "p0618",
+    "name": "New Horizon Baptist Church;La Iglesia Bautista Nuevo Horizonte;Bethlehem Missionary Baptist Church",
+    "lat": 37.347426,
+    "lon": -121.887054,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0619",
+    "name": "New Paris Beauty Salon",
+    "lat": 37.350554,
+    "lon": -121.884244,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0620",
+    "name": "Ng Shing Gung Temple, North 6th & Taylor Streets",
+    "lat": 37.350411,
+    "lon": -121.893813,
+    "kind": "bench"
+  },
+  {
+    "id": "p0621",
+    "name": "Ng Shing Gung;五聖宮",
+    "lat": 37.350511,
+    "lon": -121.893754,
+    "kind": "information"
+  },
+  {
+    "id": "p0622",
+    "name": "Ngan’s Tailoring",
+    "lat": 37.337461,
+    "lon": -121.888278,
+    "kind": "tailor"
+  },
+  {
+    "id": "p0623",
+    "name": "Nguyen Family LLC",
+    "lat": 37.33906,
+    "lon": -121.883678,
+    "kind": "estate_agent"
+  },
+  {
+    "id": "p0624",
+    "name": "Nguyen-Thu Tax Solutions",
+    "lat": 37.341841,
+    "lon": -121.878231,
+    "kind": "tax_advisor"
+  },
+  {
+    "id": "p0625",
+    "name": "Nice Tailoring",
+    "lat": 37.350518,
+    "lon": -121.884218,
+    "kind": "tailor"
+  },
+  {
+    "id": "p0626",
+    "name": "Nijiya Market",
+    "lat": 37.349098,
+    "lon": -121.893512,
+    "kind": "supermarket"
+  },
+  {
+    "id": "p0627",
+    "name": "Nikaku Japanese Arts",
+    "lat": 37.349726,
+    "lon": -121.893787,
+    "kind": "anime"
+  },
+  {
+    "id": "p0628",
+    "name": "Nikkei Lantern",
+    "lat": 37.348927,
+    "lon": -121.894226,
+    "kind": "memorial"
+  },
+  {
+    "id": "p0629",
+    "name": "Nikkei Traditions",
+    "lat": 37.349355,
+    "lon": -121.893947,
+    "kind": "variety_store"
+  },
+  {
+    "id": "p0630",
+    "name": "NK Auto Parts",
+    "lat": 37.343085,
+    "lon": -121.878515,
+    "kind": "car_parts"
+  },
+  {
+    "id": "p0631",
+    "name": "North 10th Street",
+    "lat": 37.348667,
+    "lon": -121.88702,
+    "kind": "street"
+  },
+  {
+    "id": "p0632",
+    "name": "North 10th Street & East Mission Street",
+    "lat": 37.355853,
+    "lon": -121.892322,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0633",
+    "name": "North 10th Street at Empire Street",
+    "lat": 37.349532,
+    "lon": -121.88772,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0634",
+    "name": "North 11th Street",
+    "lat": 37.349272,
+    "lon": -121.885994,
+    "kind": "street"
+  },
+  {
+    "id": "p0635",
+    "name": "North 11th Street & East Julian Street",
+    "lat": 37.345773,
+    "lon": -121.883436,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0636",
+    "name": "North 11th Street & East Mission Street",
+    "lat": 37.356515,
+    "lon": -121.89144,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0637",
+    "name": "North 11th Street & Empire Street",
+    "lat": 37.350079,
+    "lon": -121.886566,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0638",
+    "name": "North 12th Street",
+    "lat": 37.348967,
+    "lon": -121.884518,
+    "kind": "street"
+  },
+  {
+    "id": "p0639",
+    "name": "North 13th Street",
+    "lat": 37.351345,
+    "lon": -121.885022,
+    "kind": "street"
+  },
+  {
+    "id": "p0640",
+    "name": "North 14th Street",
+    "lat": 37.353044,
+    "lon": -121.885027,
+    "kind": "street"
+  },
+  {
+    "id": "p0641",
+    "name": "North 15th Street",
+    "lat": 37.35213,
+    "lon": -121.883084,
+    "kind": "street"
+  },
+  {
+    "id": "p0642",
+    "name": "North 16th Street",
+    "lat": 37.354773,
+    "lon": -121.883795,
+    "kind": "street"
+  },
+  {
+    "id": "p0643",
+    "name": "North 17th Street",
+    "lat": 37.354088,
+    "lon": -121.882014,
+    "kind": "street"
+  },
+  {
+    "id": "p0644",
+    "name": "North 18th Street",
+    "lat": 37.354721,
+    "lon": -121.881224,
+    "kind": "street"
+  },
+  {
+    "id": "p0645",
+    "name": "North 19th Street",
+    "lat": 37.349724,
+    "lon": -121.876241,
+    "kind": "street"
+  },
+  {
+    "id": "p0646",
+    "name": "North 1st Street",
+    "lat": 37.380885,
+    "lon": -121.932188,
+    "kind": "other"
+  },
+  {
+    "id": "p0647",
+    "name": "North 1st Street",
+    "lat": 37.33931,
+    "lon": -121.892939,
+    "kind": "street"
+  },
+  {
+    "id": "p0648",
+    "name": "North 1st Street & East Saint John Street",
+    "lat": 37.338509,
+    "lon": -121.892363,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0649",
+    "name": "North 1st Street & East Saint John Street",
+    "lat": 37.338072,
+    "lon": -121.892037,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0650",
+    "name": "North 1st Street & East Santa Clara Street",
+    "lat": 37.336454,
+    "lon": -121.890832,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0651",
+    "name": "North 20th Street",
+    "lat": 37.353464,
+    "lon": -121.87777,
+    "kind": "street"
+  },
+  {
+    "id": "p0652",
+    "name": "North 21st Street",
+    "lat": 37.352808,
+    "lon": -121.875996,
+    "kind": "street"
+  },
+  {
+    "id": "p0653",
+    "name": "North 22nd Street",
+    "lat": 37.355946,
+    "lon": -121.876667,
+    "kind": "street"
+  },
+  {
+    "id": "p0654",
+    "name": "North 24th Street",
+    "lat": 37.349712,
+    "lon": -121.870396,
+    "kind": "street"
+  },
+  {
+    "id": "p0655",
+    "name": "North 25th Street",
+    "lat": 37.349412,
+    "lon": -121.868768,
+    "kind": "street"
+  },
+  {
+    "id": "p0656",
+    "name": "North 26th Street",
+    "lat": 37.350847,
+    "lon": -121.868944,
+    "kind": "street"
+  },
+  {
+    "id": "p0657",
+    "name": "North 2nd Street",
+    "lat": 37.340521,
+    "lon": -121.892375,
+    "kind": "street"
+  },
+  {
+    "id": "p0658",
+    "name": "North 2nd Street & Bassett Street",
+    "lat": 37.341929,
+    "lon": -121.893437,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0659",
+    "name": "North 2nd Street & Bassett Street",
+    "lat": 37.341877,
+    "lon": -121.893547,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0660",
+    "name": "North 2nd Street & East Julian Street",
+    "lat": 37.3407,
+    "lon": -121.89256,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0661",
+    "name": "North 2nd Street & East Saint John Street",
+    "lat": 37.338497,
+    "lon": -121.89086,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0662",
+    "name": "North 2nd Street & East Santa Clara Street",
+    "lat": 37.337084,
+    "lon": -121.889867,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0663",
+    "name": "North 3rd Street",
+    "lat": 37.341085,
+    "lon": -121.891404,
+    "kind": "street"
+  },
+  {
+    "id": "p0664",
+    "name": "North 4th Street",
+    "lat": 37.341933,
+    "lon": -121.890586,
+    "kind": "street"
+  },
+  {
+    "id": "p0665",
+    "name": "North 5th Street",
+    "lat": 37.343223,
+    "lon": -121.890085,
+    "kind": "street"
+  },
+  {
+    "id": "p0666",
+    "name": "North 6th Street",
+    "lat": 37.345145,
+    "lon": -121.89006,
+    "kind": "street"
+  },
+  {
+    "id": "p0667",
+    "name": "North 7th Street",
+    "lat": 37.346953,
+    "lon": -121.889993,
+    "kind": "street"
+  },
+  {
+    "id": "p0668",
+    "name": "North 8th Street",
+    "lat": 37.352046,
+    "lon": -121.892346,
+    "kind": "street"
+  },
+  {
+    "id": "p0669",
+    "name": "North 9th Street",
+    "lat": 37.345843,
+    "lon": -121.886305,
+    "kind": "street"
+  },
+  {
+    "id": "p0670",
+    "name": "North Market Street",
+    "lat": 37.337444,
+    "lon": -121.893546,
+    "kind": "street"
+  },
+  {
+    "id": "p0671",
+    "name": "North Parking Garage",
+    "lat": 37.339292,
+    "lon": -121.880739,
+    "kind": "parking"
+  },
+  {
+    "id": "p0672",
+    "name": "North San Pedro Street",
+    "lat": 37.337938,
+    "lon": -121.895001,
+    "kind": "other"
+  },
+  {
+    "id": "p0673",
+    "name": "North San Pedro Street",
+    "lat": 37.336843,
+    "lon": -121.894178,
+    "kind": "street"
+  },
+  {
+    "id": "p0674",
+    "name": "Northeastern University Silicon Valley",
+    "lat": 37.33709,
+    "lon": -121.889551,
+    "kind": "university"
+  },
+  {
+    "id": "p0675",
+    "name": "Novedades Cruz",
+    "lat": 37.355127,
+    "lon": -121.888055,
+    "kind": "gift"
+  },
+  {
+    "id": "p0676",
+    "name": "Object Art Gallery",
+    "lat": 37.348729,
+    "lon": -121.893766,
+    "kind": "gallery"
+  },
+  {
+    "id": "p0677",
+    "name": "Odd Fellows Building",
+    "lat": 37.336832,
+    "lon": -121.888513,
+    "kind": "building"
+  },
+  {
+    "id": "p0678",
+    "name": "Okayama",
+    "lat": 37.348579,
+    "lon": -121.892854,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0679",
+    "name": "Old Superior Courthouse",
+    "lat": 37.338339,
+    "lon": -121.892747,
+    "kind": "courthouse"
+  },
+  {
+    "id": "p0680",
+    "name": "On a Roll",
+    "lat": 37.33651,
+    "lon": -121.894208,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0681",
+    "name": "One East Julian Condo",
+    "lat": 37.341028,
+    "lon": -121.893753,
+    "kind": "residential"
+  },
+  {
+    "id": "p0682",
+    "name": "Orale Restaurant & Bar",
+    "lat": 37.347943,
+    "lon": -121.877741,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0683",
+    "name": "Orangetheory Fitness",
+    "lat": 37.33745,
+    "lon": -121.893849,
+    "kind": "fitness_centre"
+  },
+  {
+    "id": "p0684",
+    "name": "Osteoporosis Center of San Jose",
+    "lat": 37.342942,
+    "lon": -121.877789,
+    "kind": "clinic"
+  },
+  {
+    "id": "p0685",
+    "name": "Overcoming Adversity",
+    "lat": 37.33955,
+    "lon": -121.887431,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0686",
+    "name": "Pacific Auto Body",
+    "lat": 37.344757,
+    "lon": -121.871872,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0687",
+    "name": "Pacific Hand Car Wash",
+    "lat": 37.346626,
+    "lon": -121.86997,
+    "kind": "car_wash"
+  },
+  {
+    "id": "p0688",
+    "name": "Pacific Workplaces",
+    "lat": 37.337904,
+    "lon": -121.894184,
+    "kind": "coworking"
+  },
+  {
+    "id": "p0689",
+    "name": "Panadería La Mejor",
+    "lat": 37.351906,
+    "lon": -121.87054,
+    "kind": "bakery"
+  },
+  {
+    "id": "p0690",
+    "name": "Panapolis Panadería 1",
+    "lat": 37.356831,
+    "lon": -121.888803,
+    "kind": "bakery"
+  },
+  {
+    "id": "p0691",
+    "name": "Panda Express",
+    "lat": 37.33649,
+    "lon": -121.88117,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0692",
+    "name": "Panther Barbershop",
+    "lat": 37.338671,
+    "lon": -121.885786,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0693",
+    "name": "Parade of Floats",
+    "lat": 37.338029,
+    "lon": -121.886194,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0694",
+    "name": "Paris Butler",
+    "lat": 37.336526,
+    "lon": -121.890164,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0695",
+    "name": "Park Plaza",
+    "lat": 37.340858,
+    "lon": -121.89164,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0696",
+    "name": "Park Rules",
+    "lat": 37.350538,
+    "lon": -121.893845,
+    "kind": "information"
+  },
+  {
+    "id": "p0697",
+    "name": "Park Townsend",
+    "lat": 37.339946,
+    "lon": -121.894386,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0698",
+    "name": "Park View Towers",
+    "lat": 37.339695,
+    "lon": -121.892459,
+    "kind": "construction"
+  },
+  {
+    "id": "p0699",
+    "name": "Park West Condominiums",
+    "lat": 37.352469,
+    "lon": -121.87224,
+    "kind": "residential"
+  },
+  {
+    "id": "p0700",
+    "name": "Parkside Terrace",
+    "lat": 37.354471,
+    "lon": -121.87239,
+    "kind": "residential"
+  },
+  {
+    "id": "p0701",
+    "name": "ParkSJ 3rd and Santa Clara Garage",
+    "lat": 37.336487,
+    "lon": -121.88825,
+    "kind": "parking"
+  },
+  {
+    "id": "p0702",
+    "name": "Pasa Lane",
+    "lat": 37.349027,
+    "lon": -121.891315,
+    "kind": "street"
+  },
+  {
+    "id": "p0703",
+    "name": "Paseo de San Carlos",
+    "lat": 37.335823,
+    "lon": -121.878148,
+    "kind": "street"
+  },
+  {
+    "id": "p0704",
+    "name": "Paseo Fresh",
+    "lat": 37.336374,
+    "lon": -121.88147,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0705",
+    "name": "Paseo Market",
+    "lat": 37.336319,
+    "lon": -121.881477,
+    "kind": "marketplace"
+  },
+  {
+    "id": "p0706",
+    "name": "Passport Health San Jose Travel Clinic",
+    "lat": 37.342831,
+    "lon": -121.87763,
+    "kind": "clinic"
+  },
+  {
+    "id": "p0707",
+    "name": "Pastelaria Adega",
+    "lat": 37.336329,
+    "lon": -121.889752,
+    "kind": "pastry"
+  },
+  {
+    "id": "p0708",
+    "name": "Pathway House",
+    "lat": 37.339285,
+    "lon": -121.878172,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0709",
+    "name": "Pau Hana Shave Ice",
+    "lat": 37.349243,
+    "lon": -121.89343,
+    "kind": "ice_cream"
+  },
+  {
+    "id": "p0710",
+    "name": "Paul’s Auto Body",
+    "lat": 37.354658,
+    "lon": -121.887105,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0711",
+    "name": "Paul’s Market",
+    "lat": 37.348743,
+    "lon": -121.888267,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0712",
+    "name": "Pavona Apartments",
+    "lat": 37.353485,
+    "lon": -121.894148,
+    "kind": "residential"
+  },
+  {
+    "id": "p0713",
+    "name": "Peace Pantry",
+    "lat": 37.338282,
+    "lon": -121.883369,
+    "kind": "give_box"
+  },
+  {
+    "id": "p0714",
+    "name": "Peanuts",
+    "lat": 37.337219,
+    "lon": -121.883536,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0715",
+    "name": "Pear Lane",
+    "lat": 37.349973,
+    "lon": -121.88964,
+    "kind": "street"
+  },
+  {
+    "id": "p0716",
+    "name": "Peppertales",
+    "lat": 37.350678,
+    "lon": -121.884234,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0717",
+    "name": "Peralta Adobe Plaza",
+    "lat": 37.336469,
+    "lon": -121.894646,
+    "kind": "street"
+  },
+  {
+    "id": "p0718",
+    "name": "Perazzo Building",
+    "lat": 37.336664,
+    "lon": -121.89444,
+    "kind": "retail"
+  },
+  {
+    "id": "p0719",
+    "name": "Permata Court",
+    "lat": 37.352654,
+    "lon": -121.870161,
+    "kind": "street"
+  },
+  {
+    "id": "p0720",
+    "name": "Peruka Place",
+    "lat": 37.351521,
+    "lon": -121.871194,
+    "kind": "street"
+  },
+  {
+    "id": "p0721",
+    "name": "Petit Galleria",
+    "lat": 37.349185,
+    "lon": -121.894204,
+    "kind": "gift"
+  },
+  {
+    "id": "p0722",
+    "name": "Phan Le Insurance Agency",
+    "lat": 37.342078,
+    "lon": -121.87891,
+    "kind": "insurance"
+  },
+  {
+    "id": "p0723",
+    "name": "Phone Repair Center",
+    "lat": 37.339138,
+    "lon": -121.883778,
+    "kind": "mobile_phone"
+  },
+  {
+    "id": "p0724",
+    "name": "Physics & Math",
+    "lat": 37.342992,
+    "lon": -121.885025,
+    "kind": "tutoring"
+  },
+  {
+    "id": "p0725",
+    "name": "Phở Passion",
+    "lat": 37.339486,
+    "lon": -121.88413,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0726",
+    "name": "Pi Kappa Alpha",
+    "lat": 37.337387,
+    "lon": -121.87752,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0727",
+    "name": "Pina Lane",
+    "lat": 37.350358,
+    "lon": -121.891075,
+    "kind": "street"
+  },
+  {
+    "id": "p0728",
+    "name": "Pinoytown",
+    "lat": 37.349505,
+    "lon": -121.893513,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0729",
+    "name": "Pisciotta Properties",
+    "lat": 37.344828,
+    "lon": -121.884503,
+    "kind": "estate_agent"
+  },
+  {
+    "id": "p0730",
+    "name": "Pisciotta Reality",
+    "lat": 37.344669,
+    "lon": -121.88432,
+    "kind": "estate_agent"
+  },
+  {
+    "id": "p0731",
+    "name": "Playback Coffee",
+    "lat": 37.336737,
+    "lon": -121.89428,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0732",
+    "name": "Playback Coffee Co",
+    "lat": 37.336737,
+    "lon": -121.894279,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0733",
+    "name": "Prayer Garden Church of God in Christ",
+    "lat": 37.350236,
+    "lon": -121.89428,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0734",
+    "name": "PremierOne Credit Union 4th Street Branch",
+    "lat": 37.336608,
+    "lon": -121.886428,
+    "kind": "bank"
+  },
+  {
+    "id": "p0735",
+    "name": "Primera Iglesia Metodista Unida de San José",
+    "lat": 37.338628,
+    "lon": -121.886154,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0736",
+    "name": "Pueblo",
+    "lat": 37.336974,
+    "lon": -121.88529,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0737",
+    "name": "Punjab Cafe",
+    "lat": 37.339212,
+    "lon": -121.883639,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0738",
+    "name": "Quynh Anh Service Center",
+    "lat": 37.345479,
+    "lon": -121.883966,
+    "kind": "photo"
+  },
+  {
+    "id": "p0739",
+    "name": "Rainbow Laundry & Water",
+    "lat": 37.351341,
+    "lon": -121.871782,
+    "kind": "laundry"
+  },
+  {
+    "id": "p0740",
+    "name": "Ramsbacher Prokey Leonard LLP",
+    "lat": 37.337329,
+    "lon": -121.8941,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0741",
+    "name": "Raul’s Mufflers",
+    "lat": 37.353528,
+    "lon": -121.887011,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0742",
+    "name": "Raymond Huang DMD",
+    "lat": 37.34283,
+    "lon": -121.877726,
+    "kind": "dentist"
+  },
+  {
+    "id": "p0743",
+    "name": "Realty Building",
+    "lat": 37.336943,
+    "lon": -121.889991,
+    "kind": "building"
+  },
+  {
+    "id": "p0744",
+    "name": "Record Nations",
+    "lat": 37.34742,
+    "lon": -121.892893,
+    "kind": "copyshop"
+  },
+  {
+    "id": "p0745",
+    "name": "Recovery Café San José",
+    "lat": 37.336992,
+    "lon": -121.88506,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0746",
+    "name": "Recreation, Play, Sports",
+    "lat": 37.338988,
+    "lon": -121.887017,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0747",
+    "name": "Redbox",
+    "lat": 37.341532,
+    "lon": -121.887019,
+    "kind": "vending_machine"
+  },
+  {
+    "id": "p0748",
+    "name": "Restaurante El Conrro",
+    "lat": 37.339562,
+    "lon": -121.884198,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0749",
+    "name": "Ridder Gate",
+    "lat": 37.336436,
+    "lon": -121.884396,
+    "kind": "monument"
+  },
+  {
+    "id": "p0750",
+    "name": "RMW Architecture + Interiors",
+    "lat": 37.336275,
+    "lon": -121.889811,
+    "kind": "architect"
+  },
+  {
+    "id": "p0751",
+    "name": "Robert D. Clark Hall",
+    "lat": 37.336178,
+    "lon": -121.882546,
+    "kind": "university"
+  },
+  {
+    "id": "p0752",
+    "name": "Robert F. Kennedy",
+    "lat": 37.338333,
+    "lon": -121.891523,
+    "kind": "memorial"
+  },
+  {
+    "id": "p0753",
+    "name": "Robert S. Okamoto Optometry",
+    "lat": 37.348971,
+    "lon": -121.893904,
+    "kind": "optician"
+  },
+  {
+    "id": "p0754",
+    "name": "Rockwell Automation Electric Vehicle Innovation Center",
+    "lat": 37.337834,
+    "lon": -121.894154,
+    "kind": "trade"
+  },
+  {
+    "id": "p0755",
+    "name": "Rollo’s Donuts and Sandwiches",
+    "lat": 37.353076,
+    "lon": -121.886079,
+    "kind": "bakery"
+  },
+  {
+    "id": "p0756",
+    "name": "Roosevelt Community Center",
+    "lat": 37.345426,
+    "lon": -121.871874,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p0757",
+    "name": "Roosevelt Park",
+    "lat": 37.346042,
+    "lon": -121.872779,
+    "kind": "park"
+  },
+  {
+    "id": "p0758",
+    "name": "Roosevelt Skate Park",
+    "lat": 37.345971,
+    "lon": -121.872974,
+    "kind": "pitch"
+  },
+  {
+    "id": "p0759",
+    "name": "Roosevelt Street",
+    "lat": 37.348597,
+    "lon": -121.874781,
+    "kind": "street"
+  },
+  {
+    "id": "p0760",
+    "name": "Ross Truck & Equipment Repair",
+    "lat": 37.357075,
+    "lon": -121.892939,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0761",
+    "name": "Rotary Summit Center",
+    "lat": 37.336769,
+    "lon": -121.886327,
+    "kind": "events_venue"
+  },
+  {
+    "id": "p0762",
+    "name": "Rotten Robbie",
+    "lat": 37.345103,
+    "lon": -121.884701,
+    "kind": "fuel"
+  },
+  {
+    "id": "p0763",
+    "name": "Ryland Mews",
+    "lat": 37.343001,
+    "lon": -121.894871,
+    "kind": "residential"
+  },
+  {
+    "id": "p0764",
+    "name": "Sabah",
+    "lat": 37.340694,
+    "lon": -121.889977,
+    "kind": "vacant"
+  },
+  {
+    "id": "p0765",
+    "name": "Sacramental Native American Church",
+    "lat": 37.342776,
+    "lon": -121.875853,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0766",
+    "name": "Saint James",
+    "lat": 37.338026,
+    "lon": -121.891247,
+    "kind": "bus_station"
+  },
+  {
+    "id": "p0767",
+    "name": "Saint James",
+    "lat": 37.338364,
+    "lon": -121.892124,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0768",
+    "name": "Saint James Dog Park",
+    "lat": 37.33913,
+    "lon": -121.890544,
+    "kind": "dog_park"
+  },
+  {
+    "id": "p0769",
+    "name": "Saint James Health Center",
+    "lat": 37.341375,
+    "lon": -121.892738,
+    "kind": "clinic"
+  },
+  {
+    "id": "p0770",
+    "name": "Saint James Park",
+    "lat": 37.339315,
+    "lon": -121.889921,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0771",
+    "name": "Saint James Park",
+    "lat": 37.338771,
+    "lon": -121.891305,
+    "kind": "information"
+  },
+  {
+    "id": "p0772",
+    "name": "Saint James Park Post Office",
+    "lat": 37.33773,
+    "lon": -121.89274,
+    "kind": "parking"
+  },
+  {
+    "id": "p0773",
+    "name": "Saint James Park Post Office",
+    "lat": 37.337781,
+    "lon": -121.892332,
+    "kind": "post_office"
+  },
+  {
+    "id": "p0774",
+    "name": "Saint James Plaza",
+    "lat": 37.339563,
+    "lon": -121.889534,
+    "kind": "building"
+  },
+  {
+    "id": "p0775",
+    "name": "Saint James Square Historic District",
+    "lat": 37.33883,
+    "lon": -121.891066,
+    "kind": "district"
+  },
+  {
+    "id": "p0776",
+    "name": "Saint Patrick Elementary School",
+    "lat": 37.340891,
+    "lon": -121.882952,
+    "kind": "school"
+  },
+  {
+    "id": "p0777",
+    "name": "Saint Patrick Home Health Providers",
+    "lat": 37.342805,
+    "lon": -121.877779,
+    "kind": "home_care"
+  },
+  {
+    "id": "p0778",
+    "name": "Saint Patrick’s Center",
+    "lat": 37.341202,
+    "lon": -121.88324,
+    "kind": "building"
+  },
+  {
+    "id": "p0779",
+    "name": "Sainte Claire Club",
+    "lat": 37.33976,
+    "lon": -121.891561,
+    "kind": "information"
+  },
+  {
+    "id": "p0780",
+    "name": "San Carlos Pizza",
+    "lat": 37.336174,
+    "lon": -121.876901,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0781",
+    "name": "San Jose",
+    "lat": 37.338768,
+    "lon": -121.887927,
+    "kind": "charging_station"
+  },
+  {
+    "id": "p0782",
+    "name": "San Jose",
+    "lat": 37.336166,
+    "lon": -121.890591,
+    "kind": "city"
+  },
+  {
+    "id": "p0783",
+    "name": "San Jose",
+    "lat": 37.296154,
+    "lon": -121.816035,
+    "kind": "other"
+  },
+  {
+    "id": "p0784",
+    "name": "San Jose Barbell",
+    "lat": 37.348891,
+    "lon": -121.882879,
+    "kind": "fitness_centre"
+  },
+  {
+    "id": "p0785",
+    "name": "San Jose Barber Shop",
+    "lat": 37.339957,
+    "lon": -121.88215,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0786",
+    "name": "San Jose Betsuin Annex",
+    "lat": 37.349677,
+    "lon": -121.894399,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p0787",
+    "name": "San Jose Buddhist Church Betsuin",
+    "lat": 37.350058,
+    "lon": -121.894606,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0788",
+    "name": "San Jose Business Center",
+    "lat": 37.342831,
+    "lon": -121.877722,
+    "kind": "commercial"
+  },
+  {
+    "id": "p0789",
+    "name": "San Jose City Hall",
+    "lat": 37.337414,
+    "lon": -121.887004,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0790",
+    "name": "San Jose City Hall Garage",
+    "lat": 37.337642,
+    "lon": -121.885163,
+    "kind": "parking_entrance"
+  },
+  {
+    "id": "p0791",
+    "name": "San Jose Cogeneration",
+    "lat": 37.336125,
+    "lon": -121.878372,
+    "kind": "building"
+  },
+  {
+    "id": "p0792",
+    "name": "San Jose Community School",
+    "lat": 37.352359,
+    "lon": -121.873246,
+    "kind": "school"
+  },
+  {
+    "id": "p0793",
+    "name": "San Jose Copies & More",
+    "lat": 37.337482,
+    "lon": -121.88823,
+    "kind": "copyshop"
+  },
+  {
+    "id": "p0794",
+    "name": "San Jose Day Nursery",
+    "lat": 37.34009,
+    "lon": -121.883902,
+    "kind": "kindergarten"
+  },
+  {
+    "id": "p0795",
+    "name": "San Jose Dental Care",
+    "lat": 37.339798,
+    "lon": -121.883519,
+    "kind": "dentist"
+  },
+  {
+    "id": "p0796",
+    "name": "San Jose Downtown Association",
+    "lat": 37.337473,
+    "lon": -121.888469,
+    "kind": "association"
+  },
+  {
+    "id": "p0797",
+    "name": "San Jose Fire Station 8",
+    "lat": 37.343727,
+    "lon": -121.874047,
+    "kind": "fire_station"
+  },
+  {
+    "id": "p0798",
+    "name": "San Jose Healthcare & Wellness Center",
+    "lat": 37.342847,
+    "lon": -121.879169,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0799",
+    "name": "San Jose Industrial Lead",
+    "lat": 37.355685,
+    "lon": -121.870428,
+    "kind": "abandoned"
+  },
+  {
+    "id": "p0800",
+    "name": "San Jose Industrial Lead",
+    "lat": 37.348109,
+    "lon": -121.866628,
+    "kind": "disused"
+  },
+  {
+    "id": "p0801",
+    "name": "San Jose Industrial Lead",
+    "lat": 37.356967,
+    "lon": -121.870872,
+    "kind": "street"
+  },
+  {
+    "id": "p0802",
+    "name": "San Jose Japanese American Citizens League",
+    "lat": 37.347997,
+    "lon": -121.894016,
+    "kind": "charity"
+  },
+  {
+    "id": "p0803",
+    "name": "San Jose Rotary Gate",
+    "lat": 37.336793,
+    "lon": -121.883572,
+    "kind": "monument"
+  },
+  {
+    "id": "p0804",
+    "name": "San Jose Salvation Army Temple Corps",
+    "lat": 37.343273,
+    "lon": -121.89211,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0805",
+    "name": "San Jose Taiko",
+    "lat": 37.347956,
+    "lon": -121.893985,
+    "kind": "association"
+  },
+  {
+    "id": "p0806",
+    "name": "San Jose Women’s Club",
+    "lat": 37.339776,
+    "lon": -121.879391,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0807",
+    "name": "San José",
+    "lat": 37.337313,
+    "lon": -121.88874,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0808",
+    "name": "San José Al Fresco",
+    "lat": 37.335972,
+    "lon": -121.893539,
+    "kind": "outdoor_seating"
+  },
+  {
+    "id": "p0809",
+    "name": "San José Bike Clinic",
+    "lat": 37.339124,
+    "lon": -121.888221,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p0810",
+    "name": "San José City Council",
+    "lat": 37.337281,
+    "lon": -121.886036,
+    "kind": "government"
+  },
+  {
+    "id": "p0811",
+    "name": "San José City Hall",
+    "lat": 37.337648,
+    "lon": -121.885939,
+    "kind": "townhall"
+  },
+  {
+    "id": "p0812",
+    "name": "San José Civic Plaza",
+    "lat": 37.337929,
+    "lon": -121.886004,
+    "kind": "pedestrian"
+  },
+  {
+    "id": "p0813",
+    "name": "San José High School",
+    "lat": 37.349306,
+    "lon": -121.871365,
+    "kind": "school"
+  },
+  {
+    "id": "p0814",
+    "name": "San José News Bureau",
+    "lat": 37.337585,
+    "lon": -121.888321,
+    "kind": "newspaper"
+  },
+  {
+    "id": "p0815",
+    "name": "San José Peace & Justice Center",
+    "lat": 37.338335,
+    "lon": -121.883296,
+    "kind": "ngo"
+  },
+  {
+    "id": "p0816",
+    "name": "San José State University Main Campus",
+    "lat": 37.33513,
+    "lon": -121.881222,
+    "kind": "university"
+  },
+  {
+    "id": "p0817",
+    "name": "San José’s Chinatowns;聖荷西唐人埠",
+    "lat": 37.350501,
+    "lon": -121.893766,
+    "kind": "information"
+  },
+  {
+    "id": "p0818",
+    "name": "San Pedro Art Crosswalks",
+    "lat": 37.336932,
+    "lon": -121.894238,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0819",
+    "name": "San Pedro Square",
+    "lat": 37.336847,
+    "lon": -121.894112,
+    "kind": "bicycle_rental"
+  },
+  {
+    "id": "p0820",
+    "name": "San Pedro Square",
+    "lat": 37.335926,
+    "lon": -121.893771,
+    "kind": "retail"
+  },
+  {
+    "id": "p0821",
+    "name": "San Pedro Square Market",
+    "lat": 37.336457,
+    "lon": -121.894643,
+    "kind": "marketplace"
+  },
+  {
+    "id": "p0822",
+    "name": "San Pedro Square Market Office",
+    "lat": 37.336656,
+    "lon": -121.894191,
+    "kind": "office"
+  },
+  {
+    "id": "p0823",
+    "name": "Santa Clara",
+    "lat": 37.336349,
+    "lon": -121.890014,
+    "kind": "bus_station"
+  },
+  {
+    "id": "p0824",
+    "name": "Santa Clara Avenue / 1st Street",
+    "lat": 37.336438,
+    "lon": -121.890221,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0825",
+    "name": "Santa Clara County",
+    "lat": 37.188857,
+    "lon": -121.70548,
+    "kind": "other"
+  },
+  {
+    "id": "p0826",
+    "name": "Santa Clara County Bar Association",
+    "lat": 37.337137,
+    "lon": -121.890149,
+    "kind": "foundation"
+  },
+  {
+    "id": "p0827",
+    "name": "Santa Clara County Courthouse",
+    "lat": 37.33848,
+    "lon": -121.892419,
+    "kind": "information"
+  },
+  {
+    "id": "p0828",
+    "name": "Santa Clara County Law Library",
+    "lat": 37.341515,
+    "lon": -121.894128,
+    "kind": "library"
+  },
+  {
+    "id": "p0829",
+    "name": "Santa Clara Plaza",
+    "lat": 37.34088,
+    "lon": -121.880061,
+    "kind": "retail"
+  },
+  {
+    "id": "p0830",
+    "name": "Santa Clara smoke shop",
+    "lat": 37.342062,
+    "lon": -121.878969,
+    "kind": "tobacco"
+  },
+  {
+    "id": "p0831",
+    "name": "Saratoga Capital Building",
+    "lat": 37.336698,
+    "lon": -121.888932,
+    "kind": "building"
+  },
+  {
+    "id": "p0832",
+    "name": "Scalabrini Hall",
+    "lat": 37.352245,
+    "lon": -121.886482,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p0833",
+    "name": "Scottish Rite Temple",
+    "lat": 37.339921,
+    "lon": -121.89041,
+    "kind": "information"
+  },
+  {
+    "id": "p0834",
+    "name": "Scratch Cookery",
+    "lat": 37.336137,
+    "lon": -121.8896,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0835",
+    "name": "Service Building",
+    "lat": 37.337112,
+    "lon": -121.879526,
+    "kind": "building"
+  },
+  {
+    "id": "p0836",
+    "name": "Settlers",
+    "lat": 37.348973,
+    "lon": -121.894189,
+    "kind": "information"
+  },
+  {
+    "id": "p0837",
+    "name": "Seven Seas Sushi",
+    "lat": 37.337271,
+    "lon": -121.887791,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0838",
+    "name": "Shampoo Salon",
+    "lat": 37.353879,
+    "lon": -121.887187,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0839",
+    "name": "Shan Market & Liquor",
+    "lat": 37.351668,
+    "lon": -121.869872,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0840",
+    "name": "Shanghai",
+    "lat": 37.349345,
+    "lon": -121.894019,
+    "kind": "building"
+  },
+  {
+    "id": "p0841",
+    "name": "Shanti Apartments",
+    "lat": 37.340908,
+    "lon": -121.890745,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0842",
+    "name": "Shark City Smoke and Skate Shop",
+    "lat": 37.345279,
+    "lon": -121.871075,
+    "kind": "tobacco"
+  },
+  {
+    "id": "p0843",
+    "name": "Shekly Tux",
+    "lat": 37.33932,
+    "lon": -121.888933,
+    "kind": "clothes"
+  },
+  {
+    "id": "p0844",
+    "name": "Sheltering Wing",
+    "lat": 37.350458,
+    "lon": -121.893795,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0845",
+    "name": "Shires Memorial Center",
+    "lat": 37.340455,
+    "lon": -121.889039,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0846",
+    "name": "Shuei-do Manju",
+    "lat": 37.349327,
+    "lon": -121.894006,
+    "kind": "bakery"
+  },
+  {
+    "id": "p0847",
+    "name": "Sigma Alpha Epsilon",
+    "lat": 37.336677,
+    "lon": -121.877704,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0848",
+    "name": "Sigma Chi",
+    "lat": 37.336581,
+    "lon": -121.877544,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0849",
+    "name": "Signs Of Success",
+    "lat": 37.344384,
+    "lon": -121.872918,
+    "kind": "other"
+  },
+  {
+    "id": "p0850",
+    "name": "Silicon Valley Bicycle Coalition",
+    "lat": 37.338552,
+    "lon": -121.878398,
+    "kind": "association"
+  },
+  {
+    "id": "p0851",
+    "name": "Silicon Valley Independent Living Center",
+    "lat": 37.342674,
+    "lon": -121.877527,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0852",
+    "name": "Silicon Valley United States Patent and Trademark Office",
+    "lat": 37.33719,
+    "lon": -121.88685,
+    "kind": "government"
+  },
+  {
+    "id": "p0853",
+    "name": "Silver Creek",
+    "lat": 37.355171,
+    "lon": -121.871264,
+    "kind": "bridge"
+  },
+  {
+    "id": "p0854",
+    "name": "Sinceretea",
+    "lat": 37.352736,
+    "lon": -121.892066,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0855",
+    "name": "Sixth Street Burger",
+    "lat": 37.338785,
+    "lon": -121.885541,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0856",
+    "name": "SJSU Book Store",
+    "lat": 37.336577,
+    "lon": -121.880292,
+    "kind": "books"
+  },
+  {
+    "id": "p0857",
+    "name": "SJSU Bowling Alley",
+    "lat": 37.336451,
+    "lon": -121.880332,
+    "kind": "bowling_alley"
+  },
+  {
+    "id": "p0858",
+    "name": "SJSU Robotics Club",
+    "lat": 37.337443,
+    "lon": -121.881439,
+    "kind": "other"
+  },
+  {
+    "id": "p0859",
+    "name": "Skill’s Auto Repair",
+    "lat": 37.353423,
+    "lon": -121.886941,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0860",
+    "name": "Software & Computer Engineering Society SJSU",
+    "lat": 37.336868,
+    "lon": -121.881451,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p0861",
+    "name": "Sola Salons",
+    "lat": 37.353689,
+    "lon": -121.890998,
+    "kind": "beauty"
+  },
+  {
+    "id": "p0862",
+    "name": "Sonic Runway",
+    "lat": 37.337918,
+    "lon": -121.8866,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0863",
+    "name": "South 10th Street",
+    "lat": 37.338575,
+    "lon": -121.879511,
+    "kind": "street"
+  },
+  {
+    "id": "p0864",
+    "name": "South 10th Street & East San Antonio Street",
+    "lat": 37.337186,
+    "lon": -121.878418,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0865",
+    "name": "South 10th Street & East San Antonio Street",
+    "lat": 37.337138,
+    "lon": -121.878517,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0866",
+    "name": "South 11th Street",
+    "lat": 37.338444,
+    "lon": -121.877921,
+    "kind": "street"
+  },
+  {
+    "id": "p0867",
+    "name": "South 11th Street & East San Antonio Street",
+    "lat": 37.338168,
+    "lon": -121.877685,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0868",
+    "name": "South 12th Street",
+    "lat": 37.337416,
+    "lon": -121.875864,
+    "kind": "street"
+  },
+  {
+    "id": "p0869",
+    "name": "South 13th Street",
+    "lat": 37.340182,
+    "lon": -121.876666,
+    "kind": "street"
+  },
+  {
+    "id": "p0870",
+    "name": "South 14th Street",
+    "lat": 37.337243,
+    "lon": -121.873238,
+    "kind": "street"
+  },
+  {
+    "id": "p0871",
+    "name": "South 15th Street",
+    "lat": 37.337701,
+    "lon": -121.87228,
+    "kind": "street"
+  },
+  {
+    "id": "p0872",
+    "name": "South 16th Street",
+    "lat": 37.339497,
+    "lon": -121.87237,
+    "kind": "street"
+  },
+  {
+    "id": "p0873",
+    "name": "South 17th Street",
+    "lat": 37.340449,
+    "lon": -121.871903,
+    "kind": "street"
+  },
+  {
+    "id": "p0874",
+    "name": "South 18th Street",
+    "lat": 37.339382,
+    "lon": -121.868695,
+    "kind": "street"
+  },
+  {
+    "id": "p0875",
+    "name": "South 19th Street",
+    "lat": 37.343053,
+    "lon": -121.870887,
+    "kind": "street"
+  },
+  {
+    "id": "p0876",
+    "name": "South 1st Street",
+    "lat": 37.326266,
+    "lon": -121.882248,
+    "kind": "other"
+  },
+  {
+    "id": "p0877",
+    "name": "South 1st Street",
+    "lat": 37.336029,
+    "lon": -121.890517,
+    "kind": "street"
+  },
+  {
+    "id": "p0878",
+    "name": "South 20th Street",
+    "lat": 37.342159,
+    "lon": -121.868598,
+    "kind": "street"
+  },
+  {
+    "id": "p0879",
+    "name": "South 21st Street",
+    "lat": 37.344054,
+    "lon": -121.869055,
+    "kind": "street"
+  },
+  {
+    "id": "p0880",
+    "name": "South 22nd Street",
+    "lat": 37.343193,
+    "lon": -121.866787,
+    "kind": "street"
+  },
+  {
+    "id": "p0881",
+    "name": "South 2nd Street",
+    "lat": 37.335767,
+    "lon": -121.888805,
+    "kind": "street"
+  },
+  {
+    "id": "p0882",
+    "name": "South 2nd Street & East Santa Clara Street",
+    "lat": 37.336182,
+    "lon": -121.889112,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0883",
+    "name": "South 3rd Street",
+    "lat": 37.336609,
+    "lon": -121.888088,
+    "kind": "street"
+  },
+  {
+    "id": "p0884",
+    "name": "South 4th Street",
+    "lat": 37.336628,
+    "lon": -121.886636,
+    "kind": "street"
+  },
+  {
+    "id": "p0885",
+    "name": "South 5th Street",
+    "lat": 37.336807,
+    "lon": -121.885319,
+    "kind": "street"
+  },
+  {
+    "id": "p0886",
+    "name": "South 6th Street",
+    "lat": 37.338038,
+    "lon": -121.884761,
+    "kind": "street"
+  },
+  {
+    "id": "p0887",
+    "name": "South 7th Street",
+    "lat": 37.338502,
+    "lon": -121.883678,
+    "kind": "street"
+  },
+  {
+    "id": "p0888",
+    "name": "South 7th Street & East Santa Clara Street",
+    "lat": 37.338774,
+    "lon": -121.884027,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0889",
+    "name": "South 7th Street & East Santa Clara Street",
+    "lat": 37.338455,
+    "lon": -121.883639,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0890",
+    "name": "South 8th Street",
+    "lat": 37.338775,
+    "lon": -121.882462,
+    "kind": "street"
+  },
+  {
+    "id": "p0891",
+    "name": "South 9th Street",
+    "lat": 37.339535,
+    "lon": -121.881612,
+    "kind": "street"
+  },
+  {
+    "id": "p0892",
+    "name": "South Bay Sports Training",
+    "lat": 37.345782,
+    "lon": -121.871068,
+    "kind": "training"
+  },
+  {
+    "id": "p0893",
+    "name": "Spaces",
+    "lat": 37.336069,
+    "lon": -121.888908,
+    "kind": "coworking"
+  },
+  {
+    "id": "p0894",
+    "name": "Sparta505",
+    "lat": 37.341715,
+    "lon": -121.879879,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0895",
+    "name": "Spartan",
+    "lat": 37.338352,
+    "lon": -121.880764,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0896",
+    "name": "Spartan",
+    "lat": 37.353273,
+    "lon": -121.890751,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0897",
+    "name": "Spartan Office",
+    "lat": 37.353144,
+    "lon": -121.890595,
+    "kind": "office"
+  },
+  {
+    "id": "p0898",
+    "name": "Speedway",
+    "lat": 37.351928,
+    "lon": -121.869426,
+    "kind": "fuel"
+  },
+  {
+    "id": "p0899",
+    "name": "Spirit Bros.",
+    "lat": 37.338882,
+    "lon": -121.883727,
+    "kind": "clothes"
+  },
+  {
+    "id": "p0900",
+    "name": "SPUR San José",
+    "lat": 37.337503,
+    "lon": -121.888487,
+    "kind": "ngo"
+  },
+  {
+    "id": "p0901",
+    "name": "Sri Chaitanya Saraswat Seva Ashram",
+    "lat": 37.341964,
+    "lon": -121.887109,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0902",
+    "name": "Stadlin Marinho LLP",
+    "lat": 37.337895,
+    "lon": -121.894204,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0903",
+    "name": "Starbucks",
+    "lat": 37.336767,
+    "lon": -121.880136,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0904",
+    "name": "Starbucks",
+    "lat": 37.338225,
+    "lon": -121.886714,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0905",
+    "name": "State Meat Market Building",
+    "lat": 37.337345,
+    "lon": -121.887454,
+    "kind": "heritage"
+  },
+  {
+    "id": "p0906",
+    "name": "State of Grace",
+    "lat": 37.349407,
+    "lon": -121.893972,
+    "kind": "tattoo"
+  },
+  {
+    "id": "p0907",
+    "name": "Stonebrook Law",
+    "lat": 37.3371,
+    "lon": -121.889416,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0908",
+    "name": "Stop & Save Food Store",
+    "lat": 37.351322,
+    "lon": -121.87036,
+    "kind": "grocery"
+  },
+  {
+    "id": "p0909",
+    "name": "Storey & Storey",
+    "lat": 37.340647,
+    "lon": -121.891407,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0910",
+    "name": "Strāta",
+    "lat": 37.338086,
+    "lon": -121.887216,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0911",
+    "name": "Student Services Center",
+    "lat": 37.339344,
+    "lon": -121.881196,
+    "kind": "educational_institution"
+  },
+  {
+    "id": "p0912",
+    "name": "Studio Current",
+    "lat": 37.339194,
+    "lon": -121.889507,
+    "kind": "architect"
+  },
+  {
+    "id": "p0913",
+    "name": "Studio W Architects",
+    "lat": 37.33791,
+    "lon": -121.894292,
+    "kind": "architect"
+  },
+  {
+    "id": "p0914",
+    "name": "Subway",
+    "lat": 37.336386,
+    "lon": -121.877088,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0915",
+    "name": "Subway",
+    "lat": 37.337422,
+    "lon": -121.888341,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0916",
+    "name": "Sueños",
+    "lat": 37.33644,
+    "lon": -121.893717,
+    "kind": "clothes"
+  },
+  {
+    "id": "p0917",
+    "name": "Sunrise Middle School",
+    "lat": 37.351395,
+    "lon": -121.872196,
+    "kind": "school"
+  },
+  {
+    "id": "p0918",
+    "name": "Sunshine Auto Service",
+    "lat": 37.35654,
+    "lon": -121.889216,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0919",
+    "name": "Sunshine Multi Services",
+    "lat": 37.342013,
+    "lon": -121.879088,
+    "kind": "tax_advisor"
+  },
+  {
+    "id": "p0920",
+    "name": "Super Mercado El Sol",
+    "lat": 37.355465,
+    "lon": -121.888619,
+    "kind": "supermarket"
+  },
+  {
+    "id": "p0921",
+    "name": "Superior Court Parking",
+    "lat": 37.337978,
+    "lon": -121.893028,
+    "kind": "parking"
+  },
+  {
+    "id": "p0922",
+    "name": "SurfaceInk",
+    "lat": 37.337617,
+    "lon": -121.888345,
+    "kind": "consulting"
+  },
+  {
+    "id": "p0923",
+    "name": "Sushi Maru",
+    "lat": 37.349487,
+    "lon": -121.892869,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0924",
+    "name": "T&H Market",
+    "lat": 37.349067,
+    "lon": -121.875528,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0925",
+    "name": "Taco Bell",
+    "lat": 37.336425,
+    "lon": -121.88113,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0926",
+    "name": "Tam Hữu Auto Repair",
+    "lat": 37.354259,
+    "lon": -121.887646,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0927",
+    "name": "Taquería El Sol",
+    "lat": 37.35543,
+    "lon": -121.888501,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0928",
+    "name": "Taquería “El Caminito”",
+    "lat": 37.356728,
+    "lon": -121.888757,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0929",
+    "name": "Tax Help Office",
+    "lat": 37.339432,
+    "lon": -121.888986,
+    "kind": "tax_advisor"
+  },
+  {
+    "id": "p0930",
+    "name": "Taylor & 10th",
+    "lat": 37.3535,
+    "lon": -121.890918,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0931",
+    "name": "Taylor & 11th",
+    "lat": 37.353882,
+    "lon": -121.890138,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0932",
+    "name": "Taylor & 11th",
+    "lat": 37.354176,
+    "lon": -121.889354,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0933",
+    "name": "Taylor & 13th",
+    "lat": 37.355088,
+    "lon": -121.887417,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0934",
+    "name": "Taylor & 14th",
+    "lat": 37.355416,
+    "lon": -121.887106,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0935",
+    "name": "Taylor & 17th",
+    "lat": 37.356918,
+    "lon": -121.883745,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0936",
+    "name": "Taylor & 18th",
+    "lat": 37.357126,
+    "lon": -121.883309,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0937",
+    "name": "Taylor & 7th",
+    "lat": 37.352182,
+    "lon": -121.893538,
+    "kind": "transit_stop"
+  },
+  {
+    "id": "p0938",
+    "name": "Taylor Automotive Service",
+    "lat": 37.352246,
+    "lon": -121.894242,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p0939",
+    "name": "Taylor Street Market",
+    "lat": 37.352576,
+    "lon": -121.892404,
+    "kind": "convenience"
+  },
+  {
+    "id": "p0940",
+    "name": "Taylor Street Night Market",
+    "lat": 37.353931,
+    "lon": -121.892725,
+    "kind": "marketplace"
+  },
+  {
+    "id": "p0941",
+    "name": "Tea Degree",
+    "lat": 37.336385,
+    "lon": -121.881096,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0942",
+    "name": "Teatro Visión",
+    "lat": 37.347926,
+    "lon": -121.893991,
+    "kind": "ngo"
+  },
+  {
+    "id": "p0943",
+    "name": "Tech Center",
+    "lat": 37.349829,
+    "lon": -121.887172,
+    "kind": "other"
+  },
+  {
+    "id": "p0944",
+    "name": "Terrace Drive",
+    "lat": 37.353166,
+    "lon": -121.875013,
+    "kind": "street"
+  },
+  {
+    "id": "p0945",
+    "name": "Teske’s Germania",
+    "lat": 37.339821,
+    "lon": -121.893577,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0946",
+    "name": "Thai Chili Express",
+    "lat": 37.338918,
+    "lon": -121.883749,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0947",
+    "name": "Thang Long Shopping Center",
+    "lat": 37.339119,
+    "lon": -121.883641,
+    "kind": "retail"
+  },
+  {
+    "id": "p0948",
+    "name": "Thanh Thanh",
+    "lat": 37.339508,
+    "lon": -121.88276,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0949",
+    "name": "The Alliance Land Building",
+    "lat": 37.33752,
+    "lon": -121.888379,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0950",
+    "name": "The Arsenal",
+    "lat": 37.34888,
+    "lon": -121.894008,
+    "kind": "arts_centre"
+  },
+  {
+    "id": "p0951",
+    "name": "The Barbers Inc.",
+    "lat": 37.339317,
+    "lon": -121.883444,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0952",
+    "name": "The Bent of The Tau Beta Pi Association - CA ETA Chapter",
+    "lat": 37.337778,
+    "lon": -121.8816,
+    "kind": "artwork"
+  },
+  {
+    "id": "p0953",
+    "name": "The Cheap Squad",
+    "lat": 37.337013,
+    "lon": -121.890025,
+    "kind": "computer_repair"
+  },
+  {
+    "id": "p0954",
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "lat": 37.338172,
+    "lon": -121.883005,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0955",
+    "name": "The City Fish",
+    "lat": 37.336351,
+    "lon": -121.88971,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0956",
+    "name": "The Comic Shop",
+    "lat": 37.337241,
+    "lon": -121.887849,
+    "kind": "books"
+  },
+  {
+    "id": "p0957",
+    "name": "The Dancing Cat",
+    "lat": 37.34732,
+    "lon": -121.879302,
+    "kind": "animal_shelter"
+  },
+  {
+    "id": "p0958",
+    "name": "The Derby",
+    "lat": 37.348349,
+    "lon": -121.883027,
+    "kind": "pub"
+  },
+  {
+    "id": "p0959",
+    "name": "The Eden Gardens",
+    "lat": 37.336544,
+    "lon": -121.89062,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0960",
+    "name": "The Emmanuel House",
+    "lat": 37.344053,
+    "lon": -121.892685,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p0961",
+    "name": "The Eredia Building",
+    "lat": 37.341648,
+    "lon": -121.878368,
+    "kind": "building"
+  },
+  {
+    "id": "p0962",
+    "name": "The Esplanade",
+    "lat": 37.351576,
+    "lon": -121.891575,
+    "kind": "residential"
+  },
+  {
+    "id": "p0963",
+    "name": "The F1rst Take",
+    "lat": 37.33673,
+    "lon": -121.888864,
+    "kind": "cafe"
+  },
+  {
+    "id": "p0964",
+    "name": "The First Unitarian Church of San José",
+    "lat": 37.339708,
+    "lon": -121.889921,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0965",
+    "name": "The Former Members of the San Jose Units",
+    "lat": 37.340282,
+    "lon": -121.891994,
+    "kind": "memorial"
+  },
+  {
+    "id": "p0966",
+    "name": "The Gardens @ 9th Street",
+    "lat": 37.352206,
+    "lon": -121.890636,
+    "kind": "residential"
+  },
+  {
+    "id": "p0967",
+    "name": "The Geary Act of 1892;1892吉里法案",
+    "lat": 37.350516,
+    "lon": -121.893747,
+    "kind": "information"
+  },
+  {
+    "id": "p0968",
+    "name": "The Gelato Shop",
+    "lat": 37.336549,
+    "lon": -121.894126,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p0969",
+    "name": "The Globe",
+    "lat": 37.336513,
+    "lon": -121.888363,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0970",
+    "name": "The Globe",
+    "lat": 37.336362,
+    "lon": -121.88859,
+    "kind": "residential"
+  },
+  {
+    "id": "p0971",
+    "name": "The Hannover Company",
+    "lat": 37.354976,
+    "lon": -121.893484,
+    "kind": "construction"
+  },
+  {
+    "id": "p0972",
+    "name": "The Heart & The Anvil Tattoo",
+    "lat": 37.355918,
+    "lon": -121.88866,
+    "kind": "tattoo"
+  },
+  {
+    "id": "p0973",
+    "name": "The Hensley House",
+    "lat": 37.344927,
+    "lon": -121.893903,
+    "kind": "guest_house"
+  },
+  {
+    "id": "p0974",
+    "name": "The Hoffman Agency",
+    "lat": 37.337834,
+    "lon": -121.889987,
+    "kind": "company"
+  },
+  {
+    "id": "p0975",
+    "name": "The iTalent Building",
+    "lat": 37.340301,
+    "lon": -121.8927,
+    "kind": "retail"
+  },
+  {
+    "id": "p0976",
+    "name": "The James Apartments",
+    "lat": 37.337348,
+    "lon": -121.890828,
+    "kind": "residential"
+  },
+  {
+    "id": "p0977",
+    "name": "The James Apartments Leasing Center",
+    "lat": 37.337237,
+    "lon": -121.891122,
+    "kind": "property_management"
+  },
+  {
+    "id": "p0978",
+    "name": "The Joint",
+    "lat": 37.337239,
+    "lon": -121.88883,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0979",
+    "name": "The Julian",
+    "lat": 37.341452,
+    "lon": -121.892409,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0980",
+    "name": "The King Mattress and Furniture",
+    "lat": 37.350724,
+    "lon": -121.885055,
+    "kind": "bed"
+  },
+  {
+    "id": "p0981",
+    "name": "The Last Round",
+    "lat": 37.339619,
+    "lon": -121.882893,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0982",
+    "name": "The Lemon Law Experts",
+    "lat": 37.337336,
+    "lon": -121.891919,
+    "kind": "lawyer"
+  },
+  {
+    "id": "p0983",
+    "name": "The Mercury News",
+    "lat": 37.337549,
+    "lon": -121.889716,
+    "kind": "newspaper"
+  },
+  {
+    "id": "p0984",
+    "name": "The Old Spaghetti Factory",
+    "lat": 37.33593,
+    "lon": -121.893972,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0985",
+    "name": "The Old Wagon Saloon & Grill",
+    "lat": 37.336402,
+    "lon": -121.894048,
+    "kind": "bar"
+  },
+  {
+    "id": "p0986",
+    "name": "The Plaza",
+    "lat": 37.34058,
+    "lon": -121.893147,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0987",
+    "name": "The Scarlet Shear",
+    "lat": 37.353785,
+    "lon": -121.891095,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0988",
+    "name": "The Thomas Victoria Building",
+    "lat": 37.339943,
+    "lon": -121.893694,
+    "kind": "apartments"
+  },
+  {
+    "id": "p0989",
+    "name": "The Workingman’s Emporium",
+    "lat": 37.340084,
+    "lon": -121.893226,
+    "kind": "clothes"
+  },
+  {
+    "id": "p0990",
+    "name": "Theta Chi",
+    "lat": 37.338827,
+    "lon": -121.878667,
+    "kind": "social_centre"
+  },
+  {
+    "id": "p0991",
+    "name": "Thom Sanborn",
+    "lat": 37.339892,
+    "lon": -121.893522,
+    "kind": "other"
+  },
+  {
+    "id": "p0992",
+    "name": "Thánh Đường Giáo Xứ Đức Mẹ La Vang;Our Lady of La Vang Church",
+    "lat": 37.340227,
+    "lon": -121.883145,
+    "kind": "other"
+  },
+  {
+    "id": "p0993",
+    "name": "Thánh Đường Đức Mẹ La Vang",
+    "lat": 37.340239,
+    "lon": -121.88311,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p0994",
+    "name": "Tienda Bambino’s Gift Shop",
+    "lat": 37.352912,
+    "lon": -121.886415,
+    "kind": "party"
+  },
+  {
+    "id": "p0995",
+    "name": "Tofoo Cơm Chay",
+    "lat": 37.339897,
+    "lon": -121.882277,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p0996",
+    "name": "Tom Services",
+    "lat": 37.339383,
+    "lon": -121.882664,
+    "kind": "tax_advisor"
+  },
+  {
+    "id": "p0997",
+    "name": "Tonie P",
+    "lat": 37.353715,
+    "lon": -121.891045,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p0998",
+    "name": "Toni’s Lock & Key",
+    "lat": 37.342172,
+    "lon": -121.885908,
+    "kind": "locksmith"
+  },
+  {
+    "id": "p0999",
+    "name": "Tony’s Pool Hall",
+    "lat": 37.355041,
+    "lon": -121.888222,
+    "kind": "bar"
+  },
+  {
+    "id": "p1000",
+    "name": "Tostadas",
+    "lat": 37.33912,
+    "lon": -121.88389,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p1001",
+    "name": "Towers @ 2nd",
+    "lat": 37.337322,
+    "lon": -121.889465,
+    "kind": "commercial"
+  },
+  {
+    "id": "p1002",
+    "name": "Towers @ 2nd North Tower",
+    "lat": 37.337573,
+    "lon": -121.889784,
+    "kind": "office"
+  },
+  {
+    "id": "p1003",
+    "name": "Towers @ 2nd South Tower",
+    "lat": 37.337083,
+    "lon": -121.889398,
+    "kind": "building"
+  },
+  {
+    "id": "p1004",
+    "name": "Towers Cafe",
+    "lat": 37.337823,
+    "lon": -121.894318,
+    "kind": "cafe"
+  },
+  {
+    "id": "p1005",
+    "name": "Town Park Towers",
+    "lat": 37.33811,
+    "lon": -121.888814,
+    "kind": "social_facility"
+  },
+  {
+    "id": "p1006",
+    "name": "Tracy's Salon",
+    "lat": 37.342031,
+    "lon": -121.879036,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p1007",
+    "name": "Trailblazers",
+    "lat": 37.336645,
+    "lon": -121.885042,
+    "kind": "artwork"
+  },
+  {
+    "id": "p1008",
+    "name": "Trasformare Salon & Barbering",
+    "lat": 37.353685,
+    "lon": -121.89101,
+    "kind": "beauty"
+  },
+  {
+    "id": "p1009",
+    "name": "Trials Pub",
+    "lat": 37.339975,
+    "lon": -121.893605,
+    "kind": "pub"
+  },
+  {
+    "id": "p1010",
+    "name": "Trinity Cathedral",
+    "lat": 37.337802,
+    "lon": -121.89074,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p1011",
+    "name": "Trinity Episcopal Cathedral Office",
+    "lat": 37.337673,
+    "lon": -121.890549,
+    "kind": "religion"
+  },
+  {
+    "id": "p1012",
+    "name": "Trinity Episcopal Cathedral Parish Hall",
+    "lat": 37.337748,
+    "lon": -121.891018,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p1013",
+    "name": "Trinity Episcopal Church",
+    "lat": 37.337936,
+    "lon": -121.890906,
+    "kind": "information"
+  },
+  {
+    "id": "p1014",
+    "name": "Tripp Avenue",
+    "lat": 37.353505,
+    "lon": -121.870583,
+    "kind": "street"
+  },
+  {
+    "id": "p1015",
+    "name": "Tripp School",
+    "lat": 37.350958,
+    "lon": -121.877659,
+    "kind": "school"
+  },
+  {
+    "id": "p1016",
+    "name": "True Beauty Salon Spa",
+    "lat": 37.349222,
+    "lon": -121.893482,
+    "kind": "beauty"
+  },
+  {
+    "id": "p1017",
+    "name": "TTL College",
+    "lat": 37.339914,
+    "lon": -121.883588,
+    "kind": "college"
+  },
+  {
+    "id": "p1018",
+    "name": "Tulip Beauty",
+    "lat": 37.353679,
+    "lon": -121.891073,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p1019",
+    "name": "Tuyen Q Nguyen D.D.S.",
+    "lat": 37.342169,
+    "lon": -121.87717,
+    "kind": "dentist"
+  },
+  {
+    "id": "p1020",
+    "name": "Two Chairs",
+    "lat": 37.338009,
+    "lon": -121.894259,
+    "kind": "counselling"
+  },
+  {
+    "id": "p1021",
+    "name": "Tình Thương Flowers",
+    "lat": 37.339559,
+    "lon": -121.882802,
+    "kind": "florist"
+  },
+  {
+    "id": "p1022",
+    "name": "tōno coffee project",
+    "lat": 37.348233,
+    "lon": -121.891219,
+    "kind": "cafe"
+  },
+  {
+    "id": "p1023",
+    "name": "U.S. Bank",
+    "lat": 37.349412,
+    "lon": -121.892953,
+    "kind": "bank"
+  },
+  {
+    "id": "p1024",
+    "name": "Unblemished Skin Studio",
+    "lat": 37.342117,
+    "lon": -121.877304,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p1025",
+    "name": "Union Square Dining Terrace",
+    "lat": 37.336057,
+    "lon": -121.881121,
+    "kind": "outdoor_seating"
+  },
+  {
+    "id": "p1026",
+    "name": "Unique Travel",
+    "lat": 37.34489,
+    "lon": -121.88443,
+    "kind": "travel_agency"
+  },
+  {
+    "id": "p1027",
+    "name": "University Technology Services",
+    "lat": 37.335935,
+    "lon": -121.883328,
+    "kind": "university"
+  },
+  {
+    "id": "p1028",
+    "name": "University Theatre",
+    "lat": 37.33611,
+    "lon": -121.884858,
+    "kind": "theatre"
+  },
+  {
+    "id": "p1029",
+    "name": "UP Warm Springs Subdivision",
+    "lat": 37.355069,
+    "lon": -121.893716,
+    "kind": "rail"
+  },
+  {
+    "id": "p1030",
+    "name": "UP Warm Springs Subdivision",
+    "lat": 37.35012,
+    "lon": -121.892315,
+    "kind": "rail"
+  },
+  {
+    "id": "p1031",
+    "name": "UP Warm Springs Subdivision",
+    "lat": 37.344731,
+    "lon": -121.893276,
+    "kind": "rail"
+  },
+  {
+    "id": "p1032",
+    "name": "UpLevel Coworking",
+    "lat": 37.340104,
+    "lon": -121.890099,
+    "kind": "coworking"
+  },
+  {
+    "id": "p1033",
+    "name": "Upswing Real Estate",
+    "lat": 37.340341,
+    "lon": -121.893904,
+    "kind": "estate_agent"
+  },
+  {
+    "id": "p1034",
+    "name": "Urban Kiosk",
+    "lat": 37.339288,
+    "lon": -121.88351,
+    "kind": "marketplace"
+  },
+  {
+    "id": "p1035",
+    "name": "Urban Rain",
+    "lat": 37.345427,
+    "lon": -121.871959,
+    "kind": "artwork"
+  },
+  {
+    "id": "p1036",
+    "name": "Urban Sanctuary",
+    "lat": 37.337093,
+    "lon": -121.885047,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p1037",
+    "name": "USA Touch-Up Auto Body",
+    "lat": 37.356064,
+    "lon": -121.892162,
+    "kind": "car_repair"
+  },
+  {
+    "id": "p1038",
+    "name": "USPS",
+    "lat": 37.337113,
+    "lon": -121.889738,
+    "kind": "post_box"
+  },
+  {
+    "id": "p1039",
+    "name": "V-Mart",
+    "lat": 37.351962,
+    "lon": -121.870454,
+    "kind": "convenience"
+  },
+  {
+    "id": "p1040",
+    "name": "Valero",
+    "lat": 37.356788,
+    "lon": -121.889628,
+    "kind": "convenience"
+  },
+  {
+    "id": "p1041",
+    "name": "Valero",
+    "lat": 37.356853,
+    "lon": -121.889405,
+    "kind": "fuel"
+  },
+  {
+    "id": "p1042",
+    "name": "Valley Hair & Nails",
+    "lat": 37.35119,
+    "lon": -121.871698,
+    "kind": "beauty"
+  },
+  {
+    "id": "p1043",
+    "name": "Valley Health Center - Downtown San Jose",
+    "lat": 37.34392,
+    "lon": -121.87507,
+    "kind": "clinic"
+  },
+  {
+    "id": "p1044",
+    "name": "Valley View Realty",
+    "lat": 37.339444,
+    "lon": -121.882717,
+    "kind": "estate_agent"
+  },
+  {
+    "id": "p1045",
+    "name": "Van Florist",
+    "lat": 37.342781,
+    "lon": -121.876258,
+    "kind": "florist"
+  },
+  {
+    "id": "p1046",
+    "name": "Veer Indian Cash & Carry",
+    "lat": 37.351919,
+    "lon": -121.870966,
+    "kind": "convenience"
+  },
+  {
+    "id": "p1047",
+    "name": "Vegan Bistro Donuts & Cafe",
+    "lat": 37.340766,
+    "lon": -121.881317,
+    "kind": "cafe"
+  },
+  {
+    "id": "p1048",
+    "name": "Vegetarian House",
+    "lat": 37.341333,
+    "lon": -121.879063,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p1049",
+    "name": "Vertin San Jose Ballet School",
+    "lat": 37.339876,
+    "lon": -121.889418,
+    "kind": "dancing_school"
+  },
+  {
+    "id": "p1050",
+    "name": "Vestal Street",
+    "lat": 37.358427,
+    "lon": -121.889738,
+    "kind": "street"
+  },
+  {
+    "id": "p1051",
+    "name": "Via Rapida Services",
+    "lat": 37.342699,
+    "lon": -121.87781,
+    "kind": "insurance"
+  },
+  {
+    "id": "p1052",
+    "name": "Vibez Hookah",
+    "lat": 37.339222,
+    "lon": -121.889193,
+    "kind": "hookah_lounge"
+  },
+  {
+    "id": "p1053",
+    "name": "Villa Torino",
+    "lat": 37.34076,
+    "lon": -121.895,
+    "kind": "residential"
+  },
+  {
+    "id": "p1054",
+    "name": "Villas in the Park",
+    "lat": 37.340853,
+    "lon": -121.892229,
+    "kind": "apartments"
+  },
+  {
+    "id": "p1055",
+    "name": "Vincent’s Barber Shop",
+    "lat": 37.339278,
+    "lon": -121.889048,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p1056",
+    "name": "Vintage Tower",
+    "lat": 37.338752,
+    "lon": -121.885662,
+    "kind": "building"
+  },
+  {
+    "id": "p1057",
+    "name": "Viridian at Bernal Park",
+    "lat": 37.356522,
+    "lon": -121.894946,
+    "kind": "residential"
+  },
+  {
+    "id": "p1058",
+    "name": "VNinvestments",
+    "lat": 37.343009,
+    "lon": -121.878444,
+    "kind": "financial_advisor"
+  },
+  {
+    "id": "p1059",
+    "name": "Voltage Hair Studio",
+    "lat": 37.353715,
+    "lon": -121.891013,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p1060",
+    "name": "Voyager Craft Coffee",
+    "lat": 37.337396,
+    "lon": -121.893754,
+    "kind": "cafe"
+  },
+  {
+    "id": "p1061",
+    "name": "VTA 66",
+    "lat": 37.341473,
+    "lon": -121.880195,
+    "kind": "other"
+  },
+  {
+    "id": "p1062",
+    "name": "Vu Bail Bonds",
+    "lat": 37.342247,
+    "lon": -121.890583,
+    "kind": "bail_bond_agent"
+  },
+  {
+    "id": "p1063",
+    "name": "Vũng Tàu",
+    "lat": 37.341748,
+    "lon": -121.879553,
+    "kind": "restaurant"
+  },
+  {
+    "id": "p1064",
+    "name": "W6YL - San Jose State Amateur Radio Club",
+    "lat": 37.336896,
+    "lon": -121.882045,
+    "kind": "community_centre"
+  },
+  {
+    "id": "p1065",
+    "name": "Walgreens",
+    "lat": 37.343227,
+    "lon": -121.874749,
+    "kind": "pharmacy"
+  },
+  {
+    "id": "p1066",
+    "name": "Wash and Fold",
+    "lat": 37.350494,
+    "lon": -121.884656,
+    "kind": "laundry"
+  },
+  {
+    "id": "p1067",
+    "name": "Washington Street",
+    "lat": 37.346351,
+    "lon": -121.887617,
+    "kind": "street"
+  },
+  {
+    "id": "p1068",
+    "name": "Waterscape",
+    "lat": 37.337942,
+    "lon": -121.886298,
+    "kind": "artwork"
+  },
+  {
+    "id": "p1069",
+    "name": "Watson Park",
+    "lat": 37.357131,
+    "lon": -121.8761,
+    "kind": "park"
+  },
+  {
+    "id": "p1070",
+    "name": "Waxthetics",
+    "lat": 37.353791,
+    "lon": -121.891066,
+    "kind": "beauty"
+  },
+  {
+    "id": "p1071",
+    "name": "Wesley United Methodist Church",
+    "lat": 37.348375,
+    "lon": -121.893568,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p1072",
+    "name": "West Court",
+    "lat": 37.354525,
+    "lon": -121.868537,
+    "kind": "street"
+  },
+  {
+    "id": "p1073",
+    "name": "West Julian Street",
+    "lat": 37.34046,
+    "lon": -121.894025,
+    "kind": "street"
+  },
+  {
+    "id": "p1074",
+    "name": "West Saint James Street",
+    "lat": 37.33863,
+    "lon": -121.893761,
+    "kind": "street"
+  },
+  {
+    "id": "p1075",
+    "name": "West Saint John Street",
+    "lat": 37.337098,
+    "lon": -121.893607,
+    "kind": "street"
+  },
+  {
+    "id": "p1076",
+    "name": "West San Carlos - First Street",
+    "lat": 37.340291,
+    "lon": -121.893655,
+    "kind": "light_rail"
+  },
+  {
+    "id": "p1077",
+    "name": "West San Carlos - First Street",
+    "lat": 37.33622,
+    "lon": -121.890569,
+    "kind": "light_rail"
+  },
+  {
+    "id": "p1078",
+    "name": "West San Carlos - First Street",
+    "lat": 37.341755,
+    "lon": -121.894704,
+    "kind": "light_rail"
+  },
+  {
+    "id": "p1079",
+    "name": "West San Carlos - First Street",
+    "lat": 37.340891,
+    "lon": -121.894109,
+    "kind": "light_rail"
+  },
+  {
+    "id": "p1080",
+    "name": "West San Carlos - Second Street",
+    "lat": 37.335833,
+    "lon": -121.889824,
+    "kind": "light_rail"
+  },
+  {
+    "id": "p1081",
+    "name": "West Santa Clara Street",
+    "lat": 37.336027,
+    "lon": -121.890889,
+    "kind": "street"
+  },
+  {
+    "id": "p1082",
+    "name": "Westca",
+    "lat": 37.337733,
+    "lon": -121.888531,
+    "kind": "fitness_centre"
+  },
+  {
+    "id": "p1083",
+    "name": "Western Dental",
+    "lat": 37.336412,
+    "lon": -121.889575,
+    "kind": "dentist"
+  },
+  {
+    "id": "p1084",
+    "name": "Westmount",
+    "lat": 37.355346,
+    "lon": -121.891238,
+    "kind": "residential"
+  },
+  {
+    "id": "p1085",
+    "name": "WeWork Valley Towers",
+    "lat": 37.337089,
+    "lon": -121.889393,
+    "kind": "coworking"
+  },
+  {
+    "id": "p1086",
+    "name": "When the Mountain Fell in Love with the Sea",
+    "lat": 37.34234,
+    "lon": -121.89446,
+    "kind": "artwork"
+  },
+  {
+    "id": "p1087",
+    "name": "Where the Tree is Born",
+    "lat": 37.349665,
+    "lon": -121.887405,
+    "kind": "bench"
+  },
+  {
+    "id": "p1088",
+    "name": "WhyHotel",
+    "lat": 37.338334,
+    "lon": -121.887467,
+    "kind": "hotel"
+  },
+  {
+    "id": "p1089",
+    "name": "Wienerschnitzel",
+    "lat": 37.344713,
+    "lon": -121.872098,
+    "kind": "fast_food"
+  },
+  {
+    "id": "p1090",
+    "name": "Wooster Avenue",
+    "lat": 37.354807,
+    "lon": -121.870865,
+    "kind": "street"
+  },
+  {
+    "id": "p1091",
+    "name": "YMCA Building",
+    "lat": 37.337041,
+    "lon": -121.888102,
+    "kind": "apartments"
+  },
+  {
+    "id": "p1092",
+    "name": "Yours Truly, Mary Anne",
+    "lat": 37.336336,
+    "lon": -121.893639,
+    "kind": "art"
+  },
+  {
+    "id": "p1093",
+    "name": "Yvette Angelique",
+    "lat": 37.3537,
+    "lon": -121.891075,
+    "kind": "hairdresser"
+  },
+  {
+    "id": "p1094",
+    "name": "Đức Mẹ La Vang",
+    "lat": 37.340241,
+    "lon": -121.882677,
+    "kind": "artwork"
+  },
+  {
+    "id": "p1095",
+    "name": "በኢትዮጵያ ኦርቶዶክስ ተዋህዶ የሳን ሆዜ ደብረ ይባቤ ቁልቢ ቅደስ ገብርኤል ቤተ ክርስቲያን;Debre Yibabe Kulbi Kidus Gabriel Ethiopian Orthodox Tewahedo Church",
+    "lat": 37.348899,
+    "lon": -121.893296,
+    "kind": "place_of_worship"
+  },
+  {
+    "id": "p1096",
+    "name": "“Smile” Market",
+    "lat": 37.34608,
+    "lon": -121.89392,
+    "kind": "convenience"
+  },
+  {
+    "id": "p1097",
+    "name": "一步一腳印;Each Step Leaves a Legacy",
+    "lat": 37.3505,
+    "lon": -121.89374,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1098",
+    "name": "五聖宮;“Ng Shing Gung”;Temple of the Five Gods",
+    "lat": 37.350642,
+    "lon": -121.893559,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1099",
+    "name": "企利街",
+    "lat": 37.350673,
+    "lon": -121.893519,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1100",
+    "name": "企季崙街",
+    "lat": 37.350657,
+    "lon": -121.893539,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1101",
+    "name": "六街唐人埠1887–1931 Sixth Street Chinatown;Heinlenville",
+    "lat": 37.35061,
+    "lon": -121.8936,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1102",
+    "name": "子結街唐人埠1872–1887 Market Street Chinatown",
+    "lat": 37.350578,
+    "lon": -121.89364,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1103",
+    "name": "孖結街唐人埠1866–1870 First Market Street Chinatown",
+    "lat": 37.350547,
+    "lon": -121.89368,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1104",
+    "name": "廣東省;Guangdong Province",
+    "lat": 37.350516,
+    "lon": -121.89372,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1105",
+    "name": "散那些;“San-Doy-Say”;唐人埠;“Tong Yun Fow”",
+    "lat": 37.350626,
+    "lon": -121.893579,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1106",
+    "name": "木屋唐人埠1887–1902 Woolen Mill Chinatown",
+    "lat": 37.350594,
+    "lon": -121.893619,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1107",
+    "name": "灣街唐人埠1870–1872 Vine Street Chinatown",
+    "lat": 37.350563,
+    "lon": -121.893659,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1108",
+    "name": "都板街",
+    "lat": 37.350689,
+    "lon": -121.893499,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1109",
+    "name": "金山;“Gum San”;Gold Mountain",
+    "lat": 37.350531,
+    "lon": -121.8937,
+    "kind": "memorial"
+  },
+  {
+    "id": "p1110",
+    "name": "산호세실리콘밸리예배소;San Jose Silicon Valley Korean Seventh-Day Adventist Company",
+    "lat": 37.338689,
+    "lon": -121.879127,
+    "kind": "place_of_worship"
+  }
+]
